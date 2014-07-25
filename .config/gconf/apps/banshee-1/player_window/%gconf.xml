@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<gconf>
+	<entry name="open_location_history" mtime="1405738970" type="list" ltype="string">
+		<li type="string">
+			<stringvalue>file:///home/kuedan/knwc-fm.m3u</stringvalue>
+		</li>
+		<li type="string">
+			<stringvalue></stringvalue>
+		</li>
+	</entry>
+	<entry name="last_file_chooser_uri" mtime="1405738968" type="string">
+		<stringvalue>file:///home/kuedan</stringvalue>
+	</entry>
+	<entry name="height" mtime="1406249026" type="int" value="714"/>
+	<entry name="width" mtime="1406249026" type="int" value="1258"/>
+	<entry name="y_pos" mtime="1406249026" type="int" value="42"/>
+	<entry name="x_pos" mtime="1406249026" type="int" value="10"/>
+	<entry name="maximized" mtime="1406249026" type="bool" value="false"/>
+	<entry name="disable_album_grid" mtime="1406243694" type="bool" value="false"/>
+	<entry name="seek_slider_width" mtime="1406243694" type="int" value="175"/>
+	<entry name="source_view_width" mtime="1406249025" type="int" value="175"/>
+</gconf>

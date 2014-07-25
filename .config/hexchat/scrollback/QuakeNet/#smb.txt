@@ -1,0 +1,45 @@
+T 1405737148 19*	Now talking on 22#smb
+T 1405737148 22*	Topic for 22#smb is: Welcome to the Super Mario Bros. clan channel! If you have any questions, highlight Floxy
+T 1405737148 22*	Topic for 22#smb set by 26Q (24Sun Jul 13 17:24:03 2014)
+T 1405737176 18<I-18>	<DigitalLight 12(Fedora)> lol\
+T 1405737234 20<ti-grrr>30	n1 know why my hook chain just shows a constant line instead of a chain? looks like it is missing graphics or something
+T 1405737242 20<ti-grrr>30	same with nades
+T 1405737245 23*	Player_2 (~p2@cpe-69-205-211-17.stny.res.rr.com23) has joined
+T 1405737247 18<I-18>	10deathmatch on 04powahaus_redux_cpm18r ended:
+T 1405737249 18<I-18>	30 DigitalLight 12(Fedora), 23 M. Yiffy, 14 14Mi04cha07el, 13 01S12ub14-01Z12ero14, 11 ZANDIPHER
+T 1405737253 18<I-18>	<14Mi04cha07el> gg
+T 1405737254 18<I-18>	<M. Yiffy> gg
+T 1405737256 18<I-18>	<DigitalLight 12(Fedora)> gg
+T 1405737293 18<I-18>	<M. Yiffy> oh god, the fox map still exists
+T 1405737303 18<I-18>	<01S12ub14-01Z12ero14> fuckin furries
+T 1405737305 18<I-18>	Playing 10deathmatch on 04cleftvillage1 (59 free slots); join now: xonotic +connect montreal.smbclan.net:26001
+T 1405737311 18<I-18>	<M. Yiffy> furries. fuck em.
+T 1405737314 18<I-18>	<01S12ub14-01Z12ero14> yuck
+T 1405737318 18<I-18>	<01S12ub14-01Z12ero14> faggots
+T 1405737422 18<I-18>	09+ join: 01b01E14a14r 14(04SMB14) [046/64]
+T 1405737454 18<I-18>	<01S12ub14-01Z12ero14> this map needs more colored lighting
+T 1405737459 18<I-18>	<01S12ub14-01Z12ero14> it adds atmosphere
+T 1405737732 18<I-18>	<DigitalLight 12(Fedora)> lol
+T 1405737908 18<I-18>	04- part: 01S12ub14-01Z12ero14 [045/64]
+T 1405737938 18<I-18>	10deathmatch on 04cleftvillage1 ended:
+T 1405737940 18<I-18>	30 01b01E14a14r 14(04SMB14), 27 DigitalLight 12(Fedora), 18 M. Yiffy, 17 ZANDIPHER, 5 14Mi04cha07el
+T 1405737942 18<I-18>	<01b01E14a14r 14(04SMB14)> gg
+T 1405737944 18<I-18>	<DigitalLight 12(Fedora)> gg
+T 1405737946 18<I-18>	<M. Yiffy> gg
+T 1405737948 18<I-18>	<14Mi04cha07el> gg
+T 1405737958 18<I-18>	04- part: DigitalLight 12(Fedora) [044/64]
+T 1405737962 18<I-18>	04- part: M. Yiffy [043/64]
+T 1405738004 18<I-18>	Playing 10team deathmatch on 04frankishtower14 (61 free slots); join now: xonotic +connect montreal.smbclan.net:26001
+T 1405738133 18<I-18>	<ZANDIPHER> downloading map :/
+T 1405738525 18<I-18>	04- part: 01b01E14a14r 14(04SMB14) [042/64]
+T 1405738624 18<I-18>	10team deathmatch on 04frankishtower14 ended:
+T 1405738626 18<I-18>	Team Scores: 0435:1250
+T 1405738628 18<I-18>	27 04ZANDIPHER
+T 1405738630 18<I-18>	30 12Michael
+T 1405738632 18<I-18>	<14Mi04cha07el> gg
+T 1405738635 18<I-18>	<ZANDIPHER> realisticly speaking, i should have won
+T 1405738639 18<I-18>	<ZANDIPHER> but yeah
+T 1405738643 18<I-18>	<ZANDIPHER> gg
+T 1405738688 18<I-18>	Playing 10team deathmatch on 04bloodrage_v2 (62 free slots); join now: xonotic +connect montreal.smbclan.net:26001
+T 1405738721 Python interface unloaded
+T 1405738721 FiSHLiM plugin unloaded

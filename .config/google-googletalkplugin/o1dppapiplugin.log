@@ -1,0 +1,14 @@
+[000:000] Cpu: 6.23.10, x2, 2268Mhz, 3945MB
+[000:000] Computer model: Not available
+[000:002] [o1d2522-1] Listening for HELLO.
+[000:011] [o1d2522-1] Shutting down instance.
+[000:011] [o1d2522-1] Client disconnected.
+[003:949] [o1d2522-2] Listening for HELLO.
+[003:969] [o1d2522-3] Listening for HELLO.
+[004:107] [o1d2522-4] Listening for HELLO.
+[3225:294] [o1d2522-2] Shutting down instance.
+[3225:294] [o1d2522-2] Client disconnected.
+[3225:529] [o1d2522-3] Shutting down instance.
+[3225:529] [o1d2522-3] Client disconnected.
+[3225:531] [o1d2522-4] Shutting down instance.
+[3225:531] [o1d2522-4] Client disconnected.

@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<gconf>
+	<entry name="icon" mtime="1404510351" type="string">
+		<stringvalue>bluetooth</stringvalue>
+	</entry>
+</gconf>

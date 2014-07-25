@@ -1,0 +1,10 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Version=1.0
+Terminal=false
+Type=Application
+Name=Model Scaler
+Exec=/usr/bin/chromium --profile-directory=Default --app-id=gcjaflhdpihnmbmfhdomllinepfkikob
+Icon=chrome-gcjaflhdpihnmbmfhdomllinepfkikob-Default
+StartupWMClass=crx_gcjaflhdpihnmbmfhdomllinepfkikob
+OnlyShowIn=Old;

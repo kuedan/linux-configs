@@ -1,0 +1,175 @@
+exec -a banshee mono  /usr/lib/banshee/Banshee.exe    --redirect-log --play-enqueued
+
+[Info  18:14:52.655] Running Banshee 2.6.2: [ArchLinux (linux-gnu, x86_64) @ 2014-06-25 18:37:58 UTC]
+
+(Banshee:14710): GLib-GObject-WARNING **: attempting to add an interface (AtkComponent) to class (__gtksharp_49_Hyena_Gui_BaseWidgetAccessible) after class_init
+
+(Banshee:14710): GLib-GObject-WARNING **: attempting to add an interface (AtkSelection) to class (__gtksharp_50_Hyena_Data_Gui_Accessibility_ListViewAccessible+601+5b+5bBanshee_Collection_TrackInfo+2c+20Banshee_Core+2c+20Version+3d2_6_0_0+2c+20Culture+3dneutral+2c+20PublicKeyToken+3dnull+5d+5d) after class_init
+
+(Banshee:14710): GLib-GObject-WARNING **: attempting to add an interface (AtkTable) to class (__gtksharp_50_Hyena_Data_Gui_Accessibility_ListViewAccessible+601+5b+5bBanshee_Collection_TrackInfo+2c+20Banshee_Core+2c+20Version+3d2_6_0_0+2c+20Culture+3dneutral+2c+20PublicKeyToken+3dnull+5d+5d) after class_init
+
+(Banshee:14710): GLib-GObject-WARNING **: attempting to add an interface (AtkSelection) to class (__gtksharp_56_Hyena_Data_Gui_Accessibility_ListViewAccessible+601+5b+5bBanshee_Collection_Database_QueryFilterInfo+601+5b+5bSystem_String+2c+20mscorlib+2c+20Version+3d4_0_0_0+2c+20Culture+3dneutral+2c+20PublicKeyToken+3db77a5c561934e089+5d+5d+2c+20Banshee_Services+2c+20Version+3d2_6_0_0+2c+20Culture+3dneutral+2c+20PublicKeyToken+3dnull+5d+5d) after class_init
+
+(Banshee:14710): GLib-GObject-WARNING **: attempting to add an interface (AtkTable) to class (__gtksharp_56_Hyena_Data_Gui_Accessibility_ListViewAccessible+601+5b+5bBanshee_Collection_Database_QueryFilterInfo+601+5b+5bSystem_String+2c+20mscorlib+2c+20Version+3d4_0_0_0+2c+20Culture+3dneutral+2c+20PublicKeyToken+3db77a5c561934e089+5d+5d+2c+20Banshee_Services+2c+20Version+3d2_6_0_0+2c+20Culture+3dneutral+2c+20PublicKeyToken+3dnull+5d+5d) after class_init
+
+(Banshee:14710): GLib-GObject-WARNING **: attempting to add an interface (AtkSelection) to class (__gtksharp_62_Hyena_Data_Gui_Accessibility_ListViewAccessible+601+5b+5bBanshee_Collection_ArtistInfo+2c+20Banshee_Core+2c+20Version+3d2_6_0_0+2c+20Culture+3dneutral+2c+20PublicKeyToken+3dnull+5d+5d) after class_init
+
+(Banshee:14710): GLib-GObject-WARNING **: attempting to add an interface (AtkTable) to class (__gtksharp_62_Hyena_Data_Gui_Accessibility_ListViewAccessible+601+5b+5bBanshee_Collection_ArtistInfo+2c+20Banshee_Core+2c+20Version+3d2_6_0_0+2c+20Culture+3dneutral+2c+20PublicKeyToken+3dnull+5d+5d) after class_init
+
+(Banshee:14710): GLib-GObject-WARNING **: attempting to add an interface (AtkSelection) to class (__gtksharp_68_Hyena_Data_Gui_Accessibility_ListViewAccessible+601+5b+5bBanshee_Collection_YearInfo+2c+20Banshee_Core+2c+20Version+3d2_6_0_0+2c+20Culture+3dneutral+2c+20PublicKeyToken+3dnull+5d+5d) after class_init
+
+(Banshee:14710): GLib-GObject-WARNING **: attempting to add an interface (AtkTable) to class (__gtksharp_68_Hyena_Data_Gui_Accessibility_ListViewAccessible+601+5b+5bBanshee_Collection_YearInfo+2c+20Banshee_Core+2c+20Version+3d2_6_0_0+2c+20Culture+3dneutral+2c+20PublicKeyToken+3dnull+5d+5d) after class_init
+
+(Banshee:14710): GLib-GObject-WARNING **: attempting to add an interface (AtkSelection) to class (__gtksharp_74_Hyena_Data_Gui_Accessibility_ListViewAccessible+601+5b+5bBanshee_Collection_AlbumInfo+2c+20Banshee_Core+2c+20Version+3d2_6_0_0+2c+20Culture+3dneutral+2c+20PublicKeyToken+3dnull+5d+5d) after class_init
+
+(Banshee:14710): GLib-GObject-WARNING **: attempting to add an interface (AtkTable) to class (__gtksharp_74_Hyena_Data_Gui_Accessibility_ListViewAccessible+601+5b+5bBanshee_Collection_AlbumInfo+2c+20Banshee_Core+2c+20Version+3d2_6_0_0+2c+20Culture+3dneutral+2c+20PublicKeyToken+3dnull+5d+5d) after class_init
+[Warn  18:14:53.865] Caught an exception - GLib.GException: Icon 'process-working' not present in theme (in `gtk-sharp')
+  at Gtk.IconTheme.LoadIcon (System.String icon_name, Int32 size, IconLookupFlags flags) [0x00000] in <filename unknown>:0 
+  at Banshee.Gui.Widgets.TaskStatusIcon..ctor () [0x00000] in <filename unknown>:0 
+[Info  18:14:54.000] Updating web proxy from GConf
+[Warn  18:14:54.137] Caught an exception - System.ApplicationException: No support GNOME Settings Daemon could be reached. (in `Banshee.MultimediaKeys')
+  at Banshee.MultimediaKeys.MultimediaKeysService.Banshee.ServiceStack.IExtensionService.Initialize () [0x00000] in <filename unknown>:0 
+  at Banshee.ServiceStack.ServiceManager.StartExtension (Mono.Addins.TypeExtensionNode node) [0x00000] in <filename unknown>:0 
+[Warn  18:14:54.137] Extension `Banshee.MultimediaKeys.MultimediaKeysService' not started: No support GNOME Settings Daemon could be reached.
+[Warn  18:14:54.138] Caught an exception - System.ApplicationException: No support GNOME Settings Daemon could be reached. (in `Banshee.MultimediaKeys')
+  at Banshee.MultimediaKeys.MultimediaKeysService.Banshee.ServiceStack.IExtensionService.Initialize () [0x00000] in <filename unknown>:0 
+  at Banshee.ServiceStack.ServiceManager.StartExtension (Mono.Addins.TypeExtensionNode node) [0x00000] in <filename unknown>:0 
+[Warn  18:14:54.138] Extension `Banshee.MultimediaKeys.MultimediaKeysService' not started: No support GNOME Settings Daemon could be reached.
+[Info  18:14:54.140] All services are started 1.073315
+
+(Banshee:14710): GLib-CRITICAL **: Source ID 142 was not found when attempting to remove it
+[Info  18:14:54.609] AmazonMP3 store redirect URL: http://integrated-services.banshee.fm/amz/redirect.do/
+
+(Banshee:14710): GLib-CRITICAL **: Source ID 211 was not found when attempting to remove it
+
+(Banshee:14710): GLib-CRITICAL **: Source ID 212 was not found when attempting to remove it
+[Info  18:14:54.985] nereid Client Started
+[Info  18:14:55.079] GStreamer version 1.2.4.0, gapless: True, replaygain: False
+System.ApplicationException: Could not find org.freedesktop.Avahi
+  at Mono.Zeroconf.Providers.AvahiDBus.DBusManager.Initialize () [0x00000] in <filename unknown>:0 
+  at Mono.Zeroconf.Providers.AvahiDBus.ZeroconfProvider.Initialize () [0x00000] in <filename unknown>:0 
+  at Mono.Zeroconf.Providers.ProviderFactory.GetProviders () [0x00000] in <filename unknown>:0 
+[Warn  18:14:57.107] Failed to start DAAP client - System.Exception: No Zeroconf providers could be found or initialized. Necessary daemon may not be running. (in `Mono.Zeroconf')
+  at Mono.Zeroconf.Providers.ProviderFactory.GetProviders () [0x00000] in <filename unknown>:0 
+  at Mono.Zeroconf.Providers.ProviderFactory.get_DefaultProvider () [0x00000] in <filename unknown>:0 
+  at Mono.Zeroconf.Providers.ProviderFactory.get_SelectedProvider () [0x00000] in <filename unknown>:0 
+  at Mono.Zeroconf.ServiceBrowser..ctor () [0x00000] in <filename unknown>:0 
+  at Daap.ServiceLocator.Start () [0x00000] in <filename unknown>:0 
+  at Banshee.Daap.DaapService.ThreadedInitialize () [0x00000] in <filename unknown>:0 
+
+(Banshee:14710): GLib-CRITICAL **: Source ID 894 was not found when attempting to remove it
+
+(Banshee:14710): GLib-CRITICAL **: Source ID 884 was not found when attempting to remove it
+
+(Banshee:14710): GLib-CRITICAL **: Source ID 749 was not found when attempting to remove it
+
+(Banshee:14710): GLib-CRITICAL **: Source ID 893 was not found when attempting to remove it
+
+(Banshee:14710): GLib-CRITICAL **: Source ID 641 was not found when attempting to remove it
+
+(Banshee:14710): GLib-CRITICAL **: Source ID 889 was not found when attempting to remove it
+
+(Banshee:14710): GLib-CRITICAL **: Source ID 512 was not found when attempting to remove it
+
+(process:14990): GLib-CRITICAL **: g_slice_set_config: assertion 'sys_page_size == 0' failed
+No permission to use the keyboard API for https://secure.last.fm
+No permission to use the keyboard API for http://www.last.fm
+1406244073684	addons.update-checker	WARN	Update manifest for {972ce4c6-7e08-4474-a285-3208198ce6fd} did not contain an updates property
+
+(Banshee:14710): GLib-CRITICAL **: Source ID 1441 was not found when attempting to remove it
+
+(Banshee:14710): GLib-CRITICAL **: Source ID 1680 was not found when attempting to remove it
+
+(Banshee:14710): GLib-CRITICAL **: Source ID 1674 was not found when attempting to remove it
+
+(Banshee:14710): GLib-CRITICAL **: Source ID 1547 was not found when attempting to remove it
+
+(Banshee:14710): GLib-CRITICAL **: Source ID 1230 was not found when attempting to remove it
+
+(Banshee:14710): GLib-CRITICAL **: Source ID 1323 was not found when attempting to remove it
+
+(Banshee:14710): GLib-CRITICAL **: Source ID 1662 was not found when attempting to remove it
+
+(Banshee:14710): GLib-CRITICAL **: Source ID 1661 was not found when attempting to remove it
+
+(Banshee:14710): GLib-CRITICAL **: Source ID 1669 was not found when attempting to remove it
+
+(Banshee:14710): GLib-CRITICAL **: Source ID 1657 was not found when attempting to remove it
+
+(Banshee:14710): GLib-CRITICAL **: Source ID 1677 was not found when attempting to remove it
+
+(Banshee:14710): GLib-CRITICAL **: Source ID 1083 was not found when attempting to remove it
+
+(Banshee:14710): GLib-CRITICAL **: Source ID 1551 was not found when attempting to remove it
+
+(Banshee:14710): GLib-CRITICAL **: Source ID 1656 was not found when attempting to remove it
+
+(Banshee:14710): GLib-CRITICAL **: Source ID 1666 was not found when attempting to remove it
+
+(Banshee:14710): GLib-CRITICAL **: Source ID 1678 was not found when attempting to remove it
+
+(Banshee:14710): GLib-CRITICAL **: Source ID 1094 was not found when attempting to remove it
+
+(Banshee:14710): GLib-CRITICAL **: Source ID 1084 was not found when attempting to remove it
+
+(Banshee:14710): GLib-CRITICAL **: Source ID 1679 was not found when attempting to remove it
+
+(Banshee:14710): GLib-CRITICAL **: Source ID 1089 was not found when attempting to remove it
+
+(Banshee:14710): GLib-CRITICAL **: Source ID 1481 was not found when attempting to remove it
+
+(Banshee:14710): GLib-CRITICAL **: Source ID 1478 was not found when attempting to remove it
+
+(Banshee:14710): GLib-CRITICAL **: Source ID 2688 was not found when attempting to remove it
+
+(Banshee:14710): GLib-CRITICAL **: Source ID 2113 was not found when attempting to remove it
+
+(Banshee:14710): GLib-CRITICAL **: Source ID 2696 was not found when attempting to remove it
+
+(Banshee:14710): GLib-CRITICAL **: Source ID 2665 was not found when attempting to remove it
+
+(Banshee:14710): GLib-CRITICAL **: Source ID 2663 was not found when attempting to remove it
+
+(Banshee:14710): GLib-CRITICAL **: Source ID 2679 was not found when attempting to remove it
+
+(Banshee:14710): GLib-CRITICAL **: Source ID 2676 was not found when attempting to remove it
+
+(Banshee:14710): GLib-CRITICAL **: Source ID 2552 was not found when attempting to remove it
+
+(Banshee:14710): GLib-CRITICAL **: Source ID 2645 was not found when attempting to remove it
+
+(Banshee:14710): GLib-CRITICAL **: Source ID 2112 was not found when attempting to remove it
+
+(Banshee:14710): GLib-CRITICAL **: Source ID 2693 was not found when attempting to remove it
+
+(Banshee:14710): GLib-CRITICAL **: Source ID 2644 was not found when attempting to remove it
+
+(Banshee:14710): GLib-CRITICAL **: Source ID 2114 was not found when attempting to remove it
+
+(Banshee:14710): GLib-CRITICAL **: Source ID 2694 was not found when attempting to remove it
+
+(Banshee:14710): GLib-CRITICAL **: Source ID 2111 was not found when attempting to remove it
+
+(Banshee:14710): GLib-CRITICAL **: Source ID 2695 was not found when attempting to remove it
+
+(Banshee:14710): GLib-CRITICAL **: Source ID 2550 was not found when attempting to remove it
+
+(Banshee:14710): GLib-CRITICAL **: Source ID 9523 was not found when attempting to remove it
+
+(Banshee:14710): GLib-CRITICAL **: Source ID 9528 was not found when attempting to remove it
+
+(Banshee:14710): GLib-CRITICAL **: Source ID 9526 was not found when attempting to remove it
+
+(Banshee:14710): GLib-CRITICAL **: Source ID 9527 was not found when attempting to remove it
+
+(Banshee:14710): GLib-CRITICAL **: Source ID 17969 was not found when attempting to remove it
+
+(Banshee:14710): GLib-CRITICAL **: Source ID 17971 was not found when attempting to remove it
+
+(Banshee:14710): GLib-CRITICAL **: Source ID 28271 was not found when attempting to remove it
+
+(Banshee:14710): GLib-CRITICAL **: Source ID 28272 was not found when attempting to remove it
+
+(Banshee:14710): GLib-CRITICAL **: Source ID 28266 was not found when attempting to remove it
+
+(Banshee:14710): GLib-CRITICAL **: Source ID 28269 was not found when attempting to remove it

@@ -1,0 +1,11 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Version=1.0
+Terminal=false
+Type=Application
+Name=Evernote Web Clipper
+Exec=/usr/bin/chromium --profile-directory=Default --app-id=pioclpoplcdbaefihamjohnefbikjilc
+Icon=chrome-pioclpoplcdbaefihamjohnefbikjilc-Default
+NoDisplay=true
+StartupWMClass=crx_pioclpoplcdbaefihamjohnefbikjilc
+OnlyShowIn=Old;

@@ -1,0 +1,176 @@
+[000:000] Cpu: 6.23.10, x2, 2268Mhz, 3946MB
+[000:000] Computer model: Not available
+[000:005] Warning(clientchannel.cc:472): 0x7fdb3b63d120: Unreadable or no port file.  Could not initiate GoogleTalkPlugin connection
+[000:005] 0x7fdb3b63d120: SendConnectStatus: Connect Status: 
+[
+	"f-connect",
+	
+	{
+		"error" : -1,
+		"step" : "0"
+	}
+]
+
+[000:006] Warning(clientchannel.cc:445): 0x7fdb3b63d120: Could not initiate GoogleTalkPlugin connection
+[000:006] 0x7fdb3b63d120: GoogleTalkPlugin not running. Starting new process...
+[000:006] Starting Flute
+[000:006] Warning(optionsfile.cc:47): Load: Could not open file, err=2
+[000:006] Warning(pluginutils.cc:268): Failed to get GoogleTalkPlugin path. Trying default.
+[000:009] Started GoogleTalkPlugin, path=/opt/google/talkplugin/GoogleTalkPlugin
+[000:009] 0x7fdb3b63d120: SendConnectStatus: Connect Status: 
+[
+	"f-connect",
+	
+	{
+		"step" : "2"
+	}
+]
+
+[000:010] 0x7fdb3b63d120: Waiting for GoogleTalkPlugin to start...
+[000:308] Warning(clientchannel.cc:472): 0x7fdb3b63d240: Unreadable or no port file.  Could not initiate GoogleTalkPlugin connection
+[000:309] 0x7fdb3b63d240: SendConnectStatus: Connect Status: 
+[
+	"f-connect",
+	
+	{
+		"error" : -1,
+		"step" : "0"
+	}
+]
+
+[000:309] Warning(clientchannel.cc:445): 0x7fdb3b63d240: Could not initiate GoogleTalkPlugin connection
+[000:309] 0x7fdb3b63d240: GoogleTalkPlugin not running. Starting new process...
+[000:309] Starting Flute
+[000:309] Warning(optionsfile.cc:47): Load: Could not open file, err=2
+[000:309] Warning(pluginutils.cc:268): Failed to get GoogleTalkPlugin path. Trying default.
+[000:312] Started GoogleTalkPlugin, path=/opt/google/talkplugin/GoogleTalkPlugin
+[000:312] 0x7fdb3b63d240: SendConnectStatus: Connect Status: 
+[
+	"f-connect",
+	
+	{
+		"step" : "2"
+	}
+]
+
+[000:313] 0x7fdb3b63d240: Waiting for GoogleTalkPlugin to start...
+[001:105] 0x7fdb3b63d120: Attempting to connect to GoogleTalkPlugin...
+[001:106] Read port file, port=34505
+[001:106] 0x7fdb3b63d120: SendConnectStatus: Connect Status: 
+[
+	"f-connect",
+	
+	{
+		"step" : "0"
+	}
+]
+
+[001:108] 0x7fdb3b65c1c0:  sending cookie 5KcBsR+7k+WxIreA
+[001:108] 0x7fdb3b63d120: SendConnectStatus: Connect Status: 
+[
+	"f-connect",
+	
+	{
+		"step" : "1"
+	}
+]
+
+[001:109] 0x7fdb3b63d120: Initiated connection to GoogleTalkPlugin
+[001:109] 0x7fdb3b63d120: SendConnectStatus: Connect Status: 
+[
+	"f-connect",
+	
+	{
+		"step" : "3"
+	}
+]
+
+[001:109] 0x7fdb3b63d120: Socket connection established
+[001:109] 0x7fdb3b63d120: ScheduleOnlineCheck: Online check in 5000ms
+[001:206] 0x7fdb3b65c1c0: Got cookie response, socket is authorized
+[001:206] 0x7fdb3b63d120: AUTHORIZED; socket handshake complete
+[001:210] 0x7fdb3b63d120: C->F: ["mf",2,{"appName":"googlemail","buildLabel":"gmail_fe_140715.00_p1","buildCl":"71329633","compileMode":"OPTIMIZED","estimatedBwBps":"379938.5724585436","numBwDataPoints":"2","setup_timeout":90000,"exps":[],"jid":"danielk@boyden-hull.org","renderer":2,"useBrowserHttp":true,"o3dVersion":"0.1.44.29","domain":"mail.google.com","useragent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36","pluginversion":"5.4.2.0"}]
+[001:212] 0x7fdb3b63d120: F->C: ["fs",{"pr":"a"}]
+[001:313] 0x7fdb3b63d240: Attempting to connect to GoogleTalkPlugin...
+[001:313] Read port file, port=34505
+[001:313] 0x7fdb3b63d240: SendConnectStatus: Connect Status: 
+[
+	"f-connect",
+	
+	{
+		"step" : "0"
+	}
+]
+
+[001:314] 0x7fdb3b65c8c0:  sending cookie 5KcBsR+7k+WxIreA
+[001:314] 0x7fdb3b63d240: SendConnectStatus: Connect Status: 
+[
+	"f-connect",
+	
+	{
+		"step" : "1"
+	}
+]
+
+[001:315] 0x7fdb3b63d240: Initiated connection to GoogleTalkPlugin
+[001:406] 0x7fdb3b63d120: F->C: ["mf","mf5.4","5.4.2.0",2,{"audioCodecs":[[103,"ISAC",1,0,16000],[111,"opus",2,64000,48000],[104,"ISAC",1,0,32000],[9,"G722",1,64000,16000],[102,"ILBC",1,13300,8000],[0,"PCMU",1,64000,8000],[8,"PCMA",1,64000,8000],[106,"CN",1,0,32000],[105,"CN",1,0,16000],[13,"CN",1,0,8000],[127,"red",1,0,8000],[126,"telephone-event",1,0,8000]],"audioRtpHdrExts":[{"id":1,"uri":"urn:ietf:params:rtp-hdrext:ssrc-audio-level"},{"id":3,"uri":"http://www.webrtc.org/experiments/rtp-hdrext/abs-send-time"}],"camDeviceName":"Laptop_Integrated_Webcam_0.3M","caps":15,"cpuAdaptVersion":1,"cpuArchitecture":1,"cpuCacheSize":3145728,"cpuFamily":6,"cpuFlags":["sse2","ssse3","sse4_1"],"cpuHasSSE2":true,"cpuModel":23,"cpuSpeed":2268,"cpuStepping":10,"cpuVendor":"GenuineIntel","cpus":2,"cpusPhysical":2,"cryptoRandom":"UaxLMwfEnfOCBw6FfZzV3VHG","cryptoSuites":["AES_CM_128_HMAC_SHA1_80","AES_CM_128_HMAC_SHA1_32"],"dataChannelVersion":1,"effectsVersion":11,"gpuDescription":"","gpuDeviceId":0,"gpuDeviceName":"","gpuDriver":"","gpuDriverVersion":"","gpuVendorId":0,"machineModel":"Not available","remotingAssistanceAllowed":1,"remotingVersion":1,"renderer":2,"rtcpMux":true,"screencast":2,"screencastLocalPreview":1,"supportsConcurrentSessions":true,"transports":["i","gice"],"unsignalledRecvStreams":1,"videoCodecs":[[100,"VP8",640,400,30],[116,"red",640,400,30],[117,"ulpfec",640,400,30],[99,"H264-SVC",640,360,30],[97,"H264",640,360,30],[98,"H263",640,360,30]],"videoRtpHdrExts":[{"id":2,"uri":"urn:ietf:params:rtp-hdrext:toffset"},{"id":3,"uri":"http://www.webrtc.org/experiments/rtp-hdrext/abs-send-time"},{"id":6,"uri":"http://vidyo.com/022009/extheaders.htm#tfrc"}],"vsVersion":1}]
+[001:418] 0x7fdb3b63d120: C->F: ["getdevicestate"]
+[001:420] 0x7fdb3b63d240: SendConnectStatus: Connect Status: 
+[
+	"f-connect",
+	
+	{
+		"step" : "3"
+	}
+]
+
+[001:464] 0x7fdb3b63d240: Socket connection established
+[001:464] 0x7fdb3b63d240: ScheduleOnlineCheck: Online check in 5000ms
+[001:506] 0x7fdb3b63d120: F->C: ["getdevicestate","15","0",["__default_device","HDA Intel, 92HD71B7X Analog - Default Audio Device","HDA Intel, 92HD71B7X Analog - Front speakers","HDA Intel, 92HD71B7X Analog - 2.1 Surround output to Front and Subwoofer speakers","HDA Intel, 92HD71B7X Analog - 4.0 Surround output to Front and Rear speakers","HDA Intel, 92HD71B7X Analog - 4.1 Surround output to Front, Rear and Subwoofer speakers","HDA Intel, 92HD71B7X Analog - 5.0 Surround output to Front, Center and Rear speakers","HDA Intel, 92HD71B7X Analog - 5.1 Surround output to Front, Center, Rear and Subwoofer speakers","HDA Intel, 92HD71B7X Analog - 7.1 Surround output to Front, Center, Side, Rear and Woofer speakers","Logitech USB Headset, USB Audio - Default Audio Device","Logitech USB Headset, USB Audio - Front speakers","Logitech USB Headset, USB Audio - 2.1 Surround output to Front and Subwoofer speakers","Logitech USB Headset, USB Audio - 4.0 Surround output to Front and Rear speakers","Logitech USB Headset, USB Audio - 4.1 Surround output to Front, Rear and Subwoofer speakers","Logitech USB Headset, USB Audio - 5.0 Surround output to Front, Center and Rear speakers","Logitech USB Headset, USB Audio - 5.1 Surround output to Front, Center, Rear and Subwoofer speakers","Logitech USB Headset, USB Audio - 7.1 Surround output to Front, Center, Side, Rear and Woofer speakers"],"0",["__default_device","HDA Intel, 92HD71B7X Analog - Default Audio Device","HDA Intel, 92HD71B7X Analog - Front speakers","HDA Intel, 92HD71B7X Analog - 2.1 Surround output to Front and Subwoofer speakers","HDA Intel, 92HD71B7X Analog - 4.0 Surround output to Front and Rear speakers","HDA Intel, 92HD71B7X Analog - 4.1 Surround output to Front, Rear and Subwoofer speakers","HDA Intel, 92HD71B7X Analog - 5.0 Surround output to Front, Center and Rear speakers","HDA Intel, 92HD71B7X Analog - 5.1 Surround output to Front, Center, Rear and Subwoofer speakers","HDA Intel, 92HD71B7X Analog - 7.1 Surround output to Front, Center, Side, Rear and Woofer speakers","Logitech USB Headset, USB Audio - Default Audio Device","Logitech USB Headset, USB Audio - Front speakers","Logitech USB Headset, USB Audio - 2.1 Surround output to Front and Subwoofer speakers","Logitech USB Headset, USB Audio - 4.0 Surround output to Front and Rear speakers","Logitech USB Headset, USB Audio - 4.1 Surround output to Front, Rear and Subwoofer speakers","Logitech USB Headset, USB Audio - 5.0 Surround output to Front, Center and Rear speakers","Logitech USB Headset, USB Audio - 5.1 Surround output to Front, Center, Rear and Subwoofer speakers","Logitech USB Headset, USB Audio - 7.1 Surround output to Front, Center, Side, Rear and Woofer speakers"],"0",["Laptop_Integrated_Webcam_0.3M"]]
+[001:510] 0x7fdb3b65c8c0: Got cookie response, socket is authorized
+[001:510] 0x7fdb3b63d240: AUTHORIZED; socket handshake complete
+[001:514] 0x7fdb3b63d240: C->F: ["mf",2,{"appName":"googlemail","buildLabel":"gmail_fe_140715.00_p1","buildCl":"71329633","compileMode":"OPTIMIZED","estimatedBwBps":"1309474.1739178817","numBwDataPoints":"4","setup_timeout":90000,"exps":[],"jid":"daniel.kuecker@gmail.com","renderer":2,"useBrowserHttp":true,"o3dVersion":"0.1.44.29","domain":"mail.google.com","useragent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/36.0.1985.125 Safari/537.36","pluginversion":"5.4.2.0"}]
+[001:516] 0x7fdb3b63d240: F->C: ["fs",{"pr":"a"}]
+[001:606] 0x7fdb3b63d240: F->C: ["mf","mf5.4","5.4.2.0",2,{"audioCodecs":[[103,"ISAC",1,0,16000],[111,"opus",2,64000,48000],[104,"ISAC",1,0,32000],[9,"G722",1,64000,16000],[102,"ILBC",1,13300,8000],[0,"PCMU",1,64000,8000],[8,"PCMA",1,64000,8000],[106,"CN",1,0,32000],[105,"CN",1,0,16000],[13,"CN",1,0,8000],[127,"red",1,0,8000],[126,"telephone-event",1,0,8000]],"audioRtpHdrExts":[{"id":1,"uri":"urn:ietf:params:rtp-hdrext:ssrc-audio-level"},{"id":3,"uri":"http://www.webrtc.org/experiments/rtp-hdrext/abs-send-time"}],"camDeviceName":"Laptop_Integrated_Webcam_0.3M","caps":15,"cpuAdaptVersion":1,"cpuArchitecture":1,"cpuCacheSize":3145728,"cpuFamily":6,"cpuFlags":["sse2","ssse3","sse4_1"],"cpuHasSSE2":true,"cpuModel":23,"cpuSpeed":2268,"cpuStepping":10,"cpuVendor":"GenuineIntel","cpus":2,"cpusPhysical":2,"cryptoRandom":"9MMvvyyTnIYsX1eAkmfcoIfO","cryptoSuites":["AES_CM_128_HMAC_SHA1_80","AES_CM_128_HMAC_SHA1_32"],"dataChannelVersion":1,"effectsVersion":11,"gpuDescription":"","gpuDeviceId":0,"gpuDeviceName":"","gpuDriver":"","gpuDriverVersion":"","gpuVendorId":0,"machineModel":"Not available","remotingAssistanceAllowed":1,"remotingVersion":1,"renderer":2,"rtcpMux":true,"screencast":2,"screencastLocalPreview":1,"supportsConcurrentSessions":true,"transports":["i","gice"],"unsignalledRecvStreams":1,"videoCodecs":[[100,"VP8",640,400,30],[116,"red",640,400,30],[117,"ulpfec",640,400,30],[99,"H264-SVC",640,360,30],[97,"H264",640,360,30],[98,"H263",640,360,30]],"videoRtpHdrExts":[{"id":2,"uri":"urn:ietf:params:rtp-hdrext:toffset"},{"id":3,"uri":"http://www.webrtc.org/experiments/rtp-hdrext/abs-send-time"},{"id":6,"uri":"http://vidyo.com/022009/extheaders.htm#tfrc"}],"vsVersion":1}]
+[001:618] 0x7fdb3b63d240: C->F: ["getdevicestate"]
+[001:664] 0x7fdb3b63d240: F->C: ["getdevicestate","15","0",["__default_device","HDA Intel, 92HD71B7X Analog - Default Audio Device","HDA Intel, 92HD71B7X Analog - Front speakers","HDA Intel, 92HD71B7X Analog - 2.1 Surround output to Front and Subwoofer speakers","HDA Intel, 92HD71B7X Analog - 4.0 Surround output to Front and Rear speakers","HDA Intel, 92HD71B7X Analog - 4.1 Surround output to Front, Rear and Subwoofer speakers","HDA Intel, 92HD71B7X Analog - 5.0 Surround output to Front, Center and Rear speakers","HDA Intel, 92HD71B7X Analog - 5.1 Surround output to Front, Center, Rear and Subwoofer speakers","HDA Intel, 92HD71B7X Analog - 7.1 Surround output to Front, Center, Side, Rear and Woofer speakers","Logitech USB Headset, USB Audio - Default Audio Device","Logitech USB Headset, USB Audio - Front speakers","Logitech USB Headset, USB Audio - 2.1 Surround output to Front and Subwoofer speakers","Logitech USB Headset, USB Audio - 4.0 Surround output to Front and Rear speakers","Logitech USB Headset, USB Audio - 4.1 Surround output to Front, Rear and Subwoofer speakers","Logitech USB Headset, USB Audio - 5.0 Surround output to Front, Center and Rear speakers","Logitech USB Headset, USB Audio - 5.1 Surround output to Front, Center, Rear and Subwoofer speakers","Logitech USB Headset, USB Audio - 7.1 Surround output to Front, Center, Side, Rear and Woofer speakers"],"0",["__default_device","HDA Intel, 92HD71B7X Analog - Default Audio Device","HDA Intel, 92HD71B7X Analog - Front speakers","HDA Intel, 92HD71B7X Analog - 2.1 Surround output to Front and Subwoofer speakers","HDA Intel, 92HD71B7X Analog - 4.0 Surround output to Front and Rear speakers","HDA Intel, 92HD71B7X Analog - 4.1 Surround output to Front, Rear and Subwoofer speakers","HDA Intel, 92HD71B7X Analog - 5.0 Surround output to Front, Center and Rear speakers","HDA Intel, 92HD71B7X Analog - 5.1 Surround output to Front, Center, Rear and Subwoofer speakers","HDA Intel, 92HD71B7X Analog - 7.1 Surround output to Front, Center, Side, Rear and Woofer speakers","Logitech USB Headset, USB Audio - Default Audio Device","Logitech USB Headset, USB Audio - Front speakers","Logitech USB Headset, USB Audio - 2.1 Surround output to Front and Subwoofer speakers","Logitech USB Headset, USB Audio - 4.0 Surround output to Front and Rear speakers","Logitech USB Headset, USB Audio - 4.1 Surround output to Front, Rear and Subwoofer speakers","Logitech USB Headset, USB Audio - 5.0 Surround output to Front, Center and Rear speakers","Logitech USB Headset, USB Audio - 5.1 Surround output to Front, Center, Rear and Subwoofer speakers","Logitech USB Headset, USB Audio - 7.1 Surround output to Front, Center, Side, Rear and Woofer speakers"],"0",["Laptop_Integrated_Webcam_0.3M"]]
+[002:128] 0x7fdb3b63d240: C->F: ["comment","BC state change: 2 to 3. Error? 0"]
+[002:140] 0x7fdb3b63d240: C->F: ["comment","BC state change: 3 to 4. Error? 0"]
+[003:090] 0x7fdb3b63d120: C->F: ["jec",[[96,"H264-SVC",320,200,30]],{"num_threads":-1,"cpu_profile":1}]
+[003:092] 0x7fdb3b63d120: C->F: ["jf",[["stun.l.google.com","19302"]
+,["alt4.stun.l.google.com","19302"]
+,["alt1.stun.l.google.com","19302"]
+,["alt2.stun.l.google.com","19302"]
+,["alt3.stun.l.google.com","19302"]
+]
+,["CAESIAoXZGFuaWVsa0Bib3lkZW4taHVsbC5vcmcQgJmu4vYoGhBWIwVz4doHkBtqh1mYteC6",["relay.google.com","19305","19305","443"]
+]
+]
+
+[003:094] 0x7fdb3b63d120: C->F: ["jec",[[96,"H264-SVC",640,400,30]],{"num_threads":-1,"cpu_profile":31}]
+[003:488] 0x7fdb3b63d240: C->F: ["jf",[["stun.l.google.com","19302"]
+,["alt1.stun.l.google.com","19302"]
+,["alt2.stun.l.google.com","19302"]
+,["alt3.stun.l.google.com","19302"]
+,["alt4.stun.l.google.com","19302"]
+]
+,["CAESIQoYZGFuaWVsLmt1ZWNrZXJAZ21haWwuY29tEL+hruL2KBoQfYp+HxHmanpJIt9ElI9G4Q\u003d\u003d",["relay.google.com","19305","19305","443"]
+]
+]
+
+[003:494] 0x7fdb3b63d240: C->F: ["jec",[[96,"H264-SVC",640,400,30]],{"num_threads":-1,"cpu_profile":31}]
+[003:495] 0x7fdb3b63d240: C->F: ["jf",[["stun.l.google.com","19302"]
+,["alt1.stun.l.google.com","19302"]
+,["alt2.stun.l.google.com","19302"]
+,["alt3.stun.l.google.com","19302"]
+,["alt4.stun.l.google.com","19302"]
+]
+,["CAESIQoYZGFuaWVsLmt1ZWNrZXJAZ21haWwuY29tEMKhruL2KBoQUESjcgsgD78XnUlMp21Xvg\u003d\u003d",["relay.google.com","19305","19305","443"]
+]
+]
+
+[003:495] 0x7fdb3b63d240: C->F: ["jec",[[96,"H264-SVC",640,400,30]],{"num_threads":-1,"cpu_profile":31}]
+[006:113] 0x7fdb3b63d120: HandleOnlineCheck: Starting check
+[006:114] 0x7fdb3b63d120: HandleOnlineCheck: OK; current state: 3
+[006:471] 0x7fdb3b63d240: HandleOnlineCheck: Starting check
+[006:471] 0x7fdb3b63d240: HandleOnlineCheck: OK; current state: 3

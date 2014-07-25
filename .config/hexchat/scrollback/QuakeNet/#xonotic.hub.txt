@@ -1,0 +1,17 @@
+T 1405556295 19*	Now talking on 22#xonotic.hub
+T 1405556295 22*	Topic for 22#xonotic.hub is: Bitmissile currently DOWN, replacement should be in by 4/19 | Hub is defined as "the effective center of an activity, region, or network." | https://github.com/Samual/hubservers
+T 1405556295 22*	Topic for 22#xonotic.hub set by 26Q (24Sun Jul 13 17:24:03 2014)
+T 1405556296 -18Q-	[#xonotic.hub] 
+T 1405556333 20<ti-grrr>30	any tell me how to enable hand grenades on my private xon server?
+T 1405556451 24*	Gatts has quit (Quit: Leaving)
+T 1405566854 24*	unfa has quit (Quit: Leaving)
+T 1405567195 24*	Mirio_ has quit (Read error: Connection reset by peer)
+T 1405640027 20*	Disconnected (20Connection reset by peer)
+T 1405640047 19*	Now talking on 22#xonotic.hub
+T 1405640047 22*	Topic for 22#xonotic.hub is: Bitmissile currently DOWN, replacement should be in by 4/19 | Hub is defined as "the effective center of an activity, region, or network." | https://github.com/Samual/hubservers
+T 1405640047 22*	Topic for 22#xonotic.hub set by 26Q (24Sun Jul 13 17:24:03 2014)
+T 1405641144 24*	kougi has quit (*.net *.split)
+T 1405641648 23*	kougi (~quassel@cpc26-chap7-2-0-cust50.18-1.cable.virginm.net23) has joined
+T 1405641772 24*	Mirio has quit (Ping timeout)
+T 1405641803 23*	Mirio (~Mirio@Mirio.users.quakenet.org23) has joined
+T 1405641803 22*	26Q gives channel operator status to 18Mirio

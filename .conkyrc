@@ -1,0 +1,3 @@
+own_window yes
+own_window_type desktop
+own_window_hints below,skip_taskbar,skip_pager# Overwrite this file if you want to have a permanent setting

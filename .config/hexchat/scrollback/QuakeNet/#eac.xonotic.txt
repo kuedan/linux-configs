@@ -1,0 +1,35 @@
+T 1405556960 19*	Now talking on 22#eac.xonotic
+T 1405556960 22*	Topic for 22#eac.xonotic is: Bot: EvilAntCyborg | Server prefixes: ctf vote duel fight
+T 1405556960 22*	Topic for 22#eac.xonotic set by 26Q (24Mon Jun 30 13:46:26 2014)
+T 1405556986 20<ti-grrr>30	any tell me how to enable hand grenades on my private xon server?
+T 1405560265 18<EvilAntCyborg18>	duel 04- part: Rael 02United States 04hektik_b3 [040/0412]
+T 1405560636 18<EvilAntCyborg18>	duel 04- part: SealBeater 02United States 04acid3dm6_eac1 [040/0412]
+T 1405567195 24*	Mirio_ has quit (Read error: Connection reset by peer)
+T 1405640027 20*	Disconnected (20Connection reset by peer)
+T 1405640047 22*	26ti-grrr sets mode 24+i on 22ti-grrr
+T 1405640047 19*	Now talking on 22#eac.xonotic
+T 1405640047 22*	Topic for 22#eac.xonotic is: Bot: EvilAntCyborg | Server prefixes: ctf vote duel fight
+T 1405640047 22*	Topic for 22#eac.xonotic set by 26Q (24Mon Jun 30 13:46:26 2014)
+T 1405640048 -18Q-	[#xonotic.hub] 
+T 1405641144 24*	kult_ has quit (*.net *.split)
+T 1405641144 24*	Melanosuchus has quit (*.net *.split)
+T 1405641144 24*	DeadDred has quit (*.net *.split)
+T 1405641144 24*	kougi has quit (*.net *.split)
+T 1405641144 24*	theTrezzer has quit (*.net *.split)
+T 1405641337 24*	asgarian has quit (EOF from client)
+T 1405641648 23*	kult_ (~kult@85-170-255-133.rev.numericable.fr23) has joined
+T 1405641648 23*	theTrezzer (~Stephan@stephan-dbc-.users.quakenet.org23) has joined
+T 1405641648 23*	kougi (~quassel@cpc26-chap7-2-0-cust50.18-1.cable.virginm.net23) has joined
+T 1405641648 23*	DeadDred (~DeadDred@ns238340.ip-192-99-36.net23) has joined
+T 1405641648 23*	Melanosuchus (Melanosuch@Melanosuchus.users.quakenet.org23) has joined
+T 1405641648 22*	26*.quakenet.org gives channel operator status to 18Melanosuchus DeadDred
+T 1405641672 24*	theTrezzer has quit (Quit: Leaving)
+T 1405641772 24*	Mirio has quit (Ping timeout)
+T 1405641835 23*	Mirio (~Mirio@Mirio.users.quakenet.org23) has joined
+T 1405642567 Python interface unloaded
+T 1405642567 FiSHLiM plugin unloaded
+T 1405737100 19*	Now talking on 22#eac.xonotic
+T 1405737100 22*	Topic for 22#eac.xonotic is: Bot: EvilAntCyborg | Server prefixes: ctf vote duel fight
+T 1405737100 22*	Topic for 22#eac.xonotic set by 26Q (24Mon Jun 30 13:46:26 2014)
+T 1405738479 24*	asgarian has quit (EOF from client)
+T 1405738491 24*	Trezzer has quit (Quit: Leaving)

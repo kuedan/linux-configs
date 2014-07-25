@@ -1,0 +1,11 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Version=1.0
+Terminal=false
+Type=Application
+Name=Pin It Button
+Exec=/usr/bin/chromium --profile-directory=Default --app-id=gpdjojdkbbmdfjfahjcgigfpmkopogic
+Icon=chrome-gpdjojdkbbmdfjfahjcgigfpmkopogic-Default
+NoDisplay=true
+StartupWMClass=crx_gpdjojdkbbmdfjfahjcgigfpmkopogic
+OnlyShowIn=Old;

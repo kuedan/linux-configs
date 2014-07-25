@@ -1,0 +1,11 @@
+#!/usr/bin/env xdg-open
+[Desktop Entry]
+Version=1.0
+Terminal=false
+Type=Application
+Name=Mindomo - Mind Mapping Made Easy
+Exec=/usr/bin/chromium --profile-directory=Default --app-id=lomfkamlboaefcpcnnklebogoelalnjm
+Icon=chrome-lomfkamlboaefcpcnnklebogoelalnjm-Default
+NoDisplay=true
+StartupWMClass=crx_lomfkamlboaefcpcnnklebogoelalnjm
+OnlyShowIn=Old;

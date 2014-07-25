@@ -1,0 +1,54 @@
+T 1405987371 19*	Now talking on 22#sqlite
+T 1405987371 22*	Topic for 22#sqlite is: (Current)-3.8.5 http://sqlite.org/ | Need help? Ask and wait patiently. All questions will be answered eventually | Pastebins: http://ideone.com/ (pick SQL) | See also: http://www.sqlite.org/src4/ | http://unql.sqlite.org/ | Extensions by zzo38: http://zzo38computer.org/sql/sqlite.txt
+T 1405987371 22*	Topic for 22#sqlite set by 26Habbie (24Thu Jun  5 02:54:59 2014)
+T 1405987372 -18ChanServ-	[#sqlite] Unofficial Discussion/Support channel for SQLite. Please visit the website at http://sqlite.org . Wiki/Search URL: http://sqlite.org/cvstrac/wiki
+T 1405987476 23*	YarnFive8 (~YarnFive8@unaffiliated/yarnfive823) has joined
+T 1405987523 24*	Pyrogerg has quit (Ping timeout: 240 seconds)
+T 1405987546 20<ti-grrr>30	can anyone suggest how i can build a simple gui to a form tied to sqlite? i want to create a simple survey with the results collected in sqlite
+T 1405987669 20<ti-grrr>30	or even in html hosted on a local machine?
+T 1405987845 18<pheas18>	basically you want a create a gui to see sqlite operations?
+T 1405987883 18<pheas18>	any way i dont know, you can try Qt, 
+T 1405987962 20<ti-grrr>30	i want to create a survey for people walking by at a fair,
+T 1405987999 20<ti-grrr>30	i just want a simple 5-10 question that they can select yes/no or input text anser
+T 1405988016 20<ti-grrr>30	like a google form
+T 1405988036 20<ti-grrr>30	but there is not internet access
+T 1405988082 18<pheas18>	ohhhhhhhhhhh
+T 1405988116 18<pheas18>	would u be interested in doing it in html?
+T 1405988160 18<pheas18>	what programming languages do you know?
+T 1405988171 20<ti-grrr>30	almost nothing
+T 1405988178 20<ti-grrr>30	html if anything, and that is basic
+T 1405988278 18<pheas18>	hmm iam thinking? cause this maybe be harder
+T 1405988296 20<ti-grrr>30	i know
+T 1405988315 20<ti-grrr>30	lol. i was hoping the was already something out there i could just tweak
+T 1405988368 18<pheas18>	yeah iam just looking for something already made.
+T 1405988384 20<ti-grrr>30	thanks. i appreciate it
+T 1405988686 18<pheas18>	what OS will you like it on?
+T 1405988737 20<ti-grrr>30	i prefer linux
+T 1405989079 18<pheas18>	ok, i cant find anything. There are 2 things  you can do 1)Manually place people's information into a database 2) Get  somebody with a little more programming knowledge to do it for you
+T 1405989081 20<ti-grrr>30	how about libreoffice base? can i create a form there?
+T 1405989113 18<pheas18>	wait hold on
+T 1405989121 19<wildintellect>	ti-grrr, django
+T 1405989140 18<wildintellect18>	you can run a local django server on the machine
+T 1405989162 18<wildintellect18>	it should be pretty easy to make such a site and run it
+T 1405989164 18<pheas18>	yeah yeah i remember i did this sort of thing with microsft access, i created buttons and everthing
+T 1405989168 20<ti-grrr>30	hmm. do i need to know programing?
+T 1405989186 19<wildintellect>	ti-grrr, oh if you don't want to program install limesurvey
+T 1405989199 18<wildintellect18>	and just run it local to the machine, it's a web survey tool
+T 1405989210 20<ti-grrr>30	.ah, that might be the ticket
+T 1405989217 18<wildintellect18>	but you can just open a local web browser to let people fill it out
+T 1405989258 20<ti-grrr>30	i will check that out. 
+T 1405989272 18<wildintellect18>	otherwise, yes Libreoffice should work - might not even need to use Base, Calc might allow forms
+T 1405989284 20<ti-grrr>30	really
+T 1405989287 20<ti-grrr>30	let me look
+T 1405989352 18<wildintellect18>	ah no looks like you have to use Base
+T 1405989358 18<wildintellect18>	but there is a Form Wizard
+T 1405989425 20<ti-grrr>30	thanks i will try that
+T 1405989440 20<ti-grrr>30	i appreciate both your help
+T 1405989524 19<pheas>	ok thank you wildintellect , ti-grrr i just checked it out base will give you what you need
+T 1405989543 20<ti-grrr>30	thanks
+T 1405989570 20<ti-grrr>30	looks like maybe kexi too?
+T 1405989673 18<wildintellect18>	sure, thats a very similar tool - I think there's more users of Base so might be easier to get help
+T 1405989687 18<pheas18>	i remember when i was doing Microsoft  access, there was still programming involved , haha, not that much but its still there
+T 1405989711 20<ti-grrr>30	cool. i will try base.
+T 1405989975 Python interface unloaded
+T 1405989975 FiSHLiM plugin unloaded

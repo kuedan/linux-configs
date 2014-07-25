@@ -1,0 +1,1252 @@
+LibreOffice PspFontCacheFile format 5
+FontCacheDirectory:1405987432:/usr/share/fonts/adobe-source-sans-pro
+File:SourceSansPro-ExtraLightIt.otf
+2;1
+Source Sans Pro ExtraLight
+0;SourceSansPro-ExtraLightIt;2;2;5;2;65535;984;273;257;0;1264;1257;1264;1257;0;0;0;65536;ExtraLight Italic
+
+File:SourceSansPro-BlackIt.otf
+2;1
+Source Sans Pro Black
+0;SourceSansPro-BlackIt;2;10;5;2;65535;984;273;257;0;1408;1257;1408;1257;0;0;0;65536;Black Italic
+
+File:SourceSansPro-SemiboldIt.otf
+2;1
+Source Sans Pro Semibold
+0;SourceSansPro-SemiboldIt;2;7;5;2;65535;984;273;257;0;1350;1257;1350;1257;0;0;0;65536;Semibold Italic
+
+File:SourceSansPro-LightIt.otf
+2;1
+Source Sans Pro Light
+0;SourceSansPro-LightIt;2;3;5;2;65535;984;273;257;0;1279;1257;1279;1257;0;0;0;65536;Light Italic
+
+File:SourceSansPro-Bold.otf
+2;1
+Source Sans Pro
+0;SourceSansPro-Bold;0;8;5;2;65535;984;273;257;0;2614;1257;2614;1257;0;0;0;65536;Bold
+
+File:SourceSansPro-ExtraLight.otf
+2;1
+Source Sans Pro ExtraLight
+0;SourceSansPro-ExtraLight;0;2;5;2;65535;984;273;257;0;2612;1257;2612;1257;0;0;0;65536;ExtraLight
+
+File:SourceSansPro-BoldIt.otf
+2;1
+Source Sans Pro
+0;SourceSansPro-BoldIt;2;8;5;2;65535;984;273;257;0;1382;1257;1382;1257;0;0;0;65536;Bold Italic
+
+File:SourceSansPro-Black.otf
+2;1
+Source Sans Pro Black
+0;SourceSansPro-Black;0;10;5;2;65535;984;273;257;0;2614;1257;2614;1257;0;0;0;65536;Black
+
+File:SourceSansPro-Semibold.otf
+2;1
+Source Sans Pro Semibold
+0;SourceSansPro-Semibold;0;7;5;2;65535;984;273;257;0;2614;1257;2614;1257;0;0;0;65536;Semibold
+
+File:SourceSansPro-It.otf
+2;1
+Source Sans Pro
+0;SourceSansPro-It;2;5;5;2;65535;984;273;257;0;1317;1257;1317;1257;0;0;0;65536;Italic
+
+File:SourceSansPro-Light.otf
+2;1
+Source Sans Pro Light
+0;SourceSansPro-Light;0;3;5;2;65535;984;273;257;0;2613;1257;2613;1257;0;0;0;65536;Light
+
+File:SourceSansPro-Regular.otf
+2;1
+Source Sans Pro
+0;SourceSansPro-Regular;0;5;5;2;65535;984;273;257;0;2613;1257;2613;1257;0;0;0;65536;Regular
+
+FontCacheDirectory:1404511969:/usr/lib/libreoffice/share/fonts/truetype
+File:opens___.ttf
+2;1
+OpenSymbol
+0;OpenSymbol;0;5;5;2;65535;799;200;-1;0;1262;999;1262;999;0;0;0;8;Regular
+
+FontCacheDirectory:1404518811:/usr/share/fonts/OTF
+File:Inconsolata.otf
+2;1
+Inconsolata
+0;Inconsolata;0;6;5;1;65535;834;176;10;0;509;1010;509;1010;0;0;0;65544;Medium
+
+FontCacheDirectory:1402147685:/usr/share/fonts/Type1
+File:p052003l.pfb
+1;1
+URW Palladio L
+0;URWPalladioL-Roma;0;6;5;2;91;993;283;276;0;1079;692;1079;692;0;0;0;p052003l.afm;Roman
+
+File:p052024l.pfb
+1;1
+URW Palladio L
+0;URWPalladioL-BoldItal;2;8;5;2;91;1000;300;300;0;1127;681;1127;681;0;0;0;p052024l.afm;Bold Italic
+
+File:a010015l.pfb
+1;1
+URW Gothic L
+0;URWGothicL-Demi;0;7;5;2;91;1024;251;275;0;1248;739;1248;739;0;0;0;a010015l.afm;Demi
+
+File:a010033l.pfb
+1;1
+URW Gothic L
+0;URWGothicL-BookObli;1;4;5;2;91;1007;232;239;0;1275;739;1275;739;0;0;0;a010033l.afm;Book Oblique
+
+File:b018012l.pfb
+1;1
+URW Bookman L
+0;URWBookmanL-Ligh;0;5;5;2;91;935;268;203;0;1266;681;1266;681;0;0;0;b018012l.afm;Light
+
+File:b018032l.pfb
+1;1
+URW Bookman L
+0;URWBookmanL-LighItal;2;5;5;2;91;962;281;243;0;1269;681;1269;681;0;0;0;b018032l.afm;Light Italic
+
+File:n019063l.pfb
+1;1
+Nimbus Sans L
+0;NimbusSanL-ReguCondItal;2;5;3;2;91;959;286;245;0;1021;718;1021;718;0;0;0;n019063l.afm;Regular Condensed Italic
+
+File:n019043l.pfb
+1;1
+Nimbus Sans L
+0;NimbusSanL-ReguCond;0;5;3;2;91;959;282;241;0;893;718;893;718;0;0;0;n019043l.afm;Regular Condensed
+
+File:s050000l.pfb
+1;1
+Standard Symbols L
+0;StandardSymL;0;5;5;2;10;1010;293;303;0;1090;673;1090;673;0;0;0;s050000l.afm;Regular
+
+File:n019024l.pfb
+1;1
+Nimbus Sans L
+0;NimbusSanL-BoldItal;2;8;5;2;91;953;309;262;0;1199;729;1199;729;0;0;0;n019024l.afm;Bold Italic
+
+File:n021023l.pfb
+1;1
+Nimbus Roman No9 L
+0;NimbusRomNo9L-ReguItal;2;5;5;2;91;924;270;194;0;1112;653;1112;653;0;0;0;n021023l.afm;Regular Italic
+
+File:p052004l.pfb
+1;1
+URW Palladio L
+0;URWPalladioL-Bold;0;8;5;2;91;995;301;296;0;1177;681;1177;681;0;0;0;p052004l.afm;Bold
+
+File:a010013l.pfb
+1;1
+URW Gothic L
+0;URWGothicL-Book;0;4;5;2;91;984;240;224;0;1151;739;1151;739;0;0;0;a010013l.afm;Book
+
+File:n019064l.pfb
+1;1
+Nimbus Sans L
+0;NimbusSanL-BoldCondItal;2;8;3;2;91;989;298;287;0;1001;718;1001;718;0;0;0;n019064l.afm;Bold Condensed Italic
+
+File:n019044l.pfb
+1;1
+Nimbus Sans L
+0;NimbusSanL-BoldCond;0;8;3;2;91;975;307;282;0;878;718;878;718;0;0;0;n019044l.afm;Bold Condensed
+
+File:n019004l.pfb
+1;1
+Nimbus Sans L
+0;NimbusSanL-Bold;0;8;5;2;91;979;307;286;0;1097;729;1097;729;0;0;0;n019004l.afm;Bold
+
+File:n019003l.pfb
+1;1
+Nimbus Sans L
+0;NimbusSanL-Regu;0;5;5;2;91;953;285;238;0;1022;729;1022;729;0;0;0;n019003l.afm;Regular
+
+File:a010035l.pfb
+1;1
+URW Gothic L
+0;URWGothicL-DemiObli;1;7;5;2;91;1054;251;305;0;1281;739;1281;739;0;0;0;a010035l.afm;Demi Oblique
+
+File:n022023l.pfb
+1;1
+Nimbus Mono L
+0;NimbusMonL-ReguObli;1;5;5;1;91;811;237;48;0;774;563;774;563;0;0;0;n022023l.afm;Regular Oblique
+
+File:n022004l.pfb
+1;1
+Nimbus Mono L
+0;NimbusMonL-Bold;0;8;5;1;91;871;278;149;0;681;583;681;583;0;0;0;n022004l.afm;Bold
+
+File:n021024l.pfb
+1;1
+Nimbus Roman No9 L
+0;NimbusRomNo9L-MediItal;2;8;5;2;91;964;324;288;0;1230;669;1230;669;0;0;0;n021024l.afm;Medium Italic
+
+File:b018015l.pfb
+1;1
+URW Bookman L
+0;URWBookmanL-DemiBold;0;8;5;2;91;1000;306;306;0;1346;681;1346;681;0;0;0;b018015l.afm;Demi Bold
+
+File:n022003l.pfb
+1;1
+Nimbus Mono L
+0;NimbusMonL-Regu;0;5;5;1;91;821;274;95;0;650;563;650;563;0;0;0;n022003l.afm;Regular
+
+File:z003034l.pfb
+1;1
+URW Chancery L
+0;URWChanceryL-MediItal;2;6;5;2;91;994;290;284;0;1097;573;1097;573;0;0;0;z003034l.afm;Medium Italic
+
+File:p052023l.pfb
+1;1
+URW Palladio L
+0;URWPalladioL-Ital;2;5;5;2;91;1005;305;310;0;1072;692;1072;692;0;0;0;p052023l.afm;Italic
+
+File:n019023l.pfb
+1;1
+Nimbus Sans L
+0;NimbusSanL-ReguItal;2;5;5;2;91;979;284;263;0;1139;729;1139;729;0;0;0;n019023l.afm;Regular Italic
+
+File:d050000l.pfb
+1;1
+Dingbats
+0;Dingbats;0;5;5;2;10;819;143;-38;0;981;691;981;691;0;0;0;d050000l.afm;Regular
+
+File:c059013l.pfb
+1;1
+Century Schoolbook L
+0;CenturySchL-Roma;0;6;5;2;91;988;302;290;0;1188;722;1188;722;0;0;0;c059013l.afm;Roman
+
+File:c059016l.pfb
+1;1
+Century Schoolbook L
+0;CenturySchL-Bold;0;8;5;2;91;1005;372;377;0;1254;722;1254;722;0;0;0;c059016l.afm;Bold
+
+File:b018035l.pfb
+1;1
+URW Bookman L
+0;URWBookmanL-DemiBoldItal;2;8;5;2;91;993;332;325;0;1333;681;1333;681;0;0;0;b018035l.afm;Demi Bold Italic
+
+File:n021004l.pfb
+1;1
+Nimbus Roman No9 L
+0;NimbusRomNo9L-Medi;0;8;5;2;91;960;341;301;0;1093;676;1093;676;0;0;0;n021004l.afm;Medium
+
+File:n021003l.pfb
+1;1
+Nimbus Roman No9 L
+0;NimbusRomNo9L-Regu;0;5;5;2;91;924;281;205;0;1031;662;1031;662;0;0;0;n021003l.afm;Regular
+
+File:c059033l.pfb
+1;1
+Century Schoolbook L
+0;CenturySchL-Ital;2;5;5;2;91;991;329;320;0;1289;722;1289;722;0;0;0;c059033l.afm;Italic
+
+File:n022024l.pfb
+1;1
+Nimbus Mono L
+0;NimbusMonL-BoldObli;1;8;5;2;91;871;278;149;0;840;583;840;583;0;0;0;n022024l.afm;Bold Oblique
+
+File:c059036l.pfb
+1;1
+Century Schoolbook L
+0;CenturySchL-BoldItal;2;8;5;2;91;998;371;369;0;1346;722;1346;722;0;0;0;c059036l.afm;Bold Italic
+
+FontCacheDirectory:1405030556:/usr/share/fonts/TTF
+File:AboriginalSansBOLDITALIC.ttf
+2;1
+Aboriginal Sans
+0;AboriginalSans-Bold;0;8;5;2;65535;1054;492;546;0;2438;1546;2438;1546;0;0;0;0;Bold
+
+File:VeraMoIt.ttf
+2;1
+Bitstream Vera Sans Mono
+0;BitstreamVeraSansMono-Oblique;1;5;5;1;65535;928;235;163;0;760;1163;760;1163;0;0;0;4;Oblique
+
+File:mal1-n.ttf
+2;1
+AkrutiMal1
+0;AkrutiMal1Normal;0;5;5;2;65535;800;367;167;0;2367;1167;2367;1167;0;0;0;1;Normal
+
+File:GurbaniBoliLite.ttf
+2;1
+GurbaniBoliLite
+0;GurbaniBoliLite;0;6;1;2;65535;801;251;52;0;1116;1052;1116;1052;0;0;0;8;Medium
+
+File:KhmerOS_metalchrieng.ttf
+2;1
+Khmer OS Metal Chrieng
+0;KhmerOSmc;0;5;5;2;65535;1464;781;1245;0;3836;2245;3836;2245;0;0;0;0;Regular
+
+File:Lohit-Devanagari.ttf
+2;1
+Lohit Devanagari
+0;Lohit-Devanagari;0;5;5;2;65535;1094;502;596;0;1922;1596;1922;1596;0;0;0;0;Regular
+
+File:VeraMoBd.ttf
+2;1
+Bitstream Vera Sans Mono
+0;BitstreamVeraSansMono-Bold;0;8;5;1;65535;928;235;163;0;624;1163;624;1163;0;0;0;4;Bold
+
+File:VeraSe.ttf
+2;1
+Bitstream Vera Serif
+0;BitstreamVeraSerif-Roman;0;5;5;2;65535;928;235;163;0;1470;1163;1470;1163;0;0;0;4;Roman
+
+File:DejaVuSansCondensed-Oblique.ttf
+2;1
+DejaVu Sans Condensed
+0;DejaVuSansCondensed-Oblique;1;5;4;2;65535;928;235;163;0;2407;1163;2407;1163;0;0;0;0;Condensed Oblique
+
+File:AboriginalSansITALIC.ttf
+2;1
+Aboriginal Sans
+0;AboriginalSans-Italic;2;5;5;2;65535;1054;492;546;0;2493;1546;2493;1546;0;0;0;0;Italic
+
+File:DejaVuSans-BoldOblique.ttf
+2;1
+DejaVu Sans
+0;DejaVuSans-BoldOblique;1;8;5;2;65535;928;235;163;0;3064;1163;3064;1163;0;0;0;0;Bold Oblique
+
+File:DejaVuSans.ttf
+2;1
+DejaVu Sans
+0;DejaVuSans;0;5;5;2;65535;928;235;163;0;2700;1163;2700;1163;0;0;0;0;Book
+
+File:AboriginalSansREGULAR.ttf
+2;1
+Aboriginal Sans
+0;AboriginalSans;0;5;5;2;65535;1054;492;546;0;2523;1546;2523;1546;0;0;0;0;Regular
+
+File:DejaVuSansMono.ttf
+2;1
+DejaVu Sans Mono
+0;DejaVuSansMono;0;5;5;1;65535;928;235;163;0;1274;1163;1274;1163;0;0;0;0;Book
+
+File:Kinnari-Italic.ttf
+2;1
+Kinnari
+0;Kinnari-Italic;2;6;5;2;65535;1286;496;782;0;1989;1782;1989;1782;0;0;0;0;Italic
+
+File:Lohit-Malayalam.ttf
+2;1
+Lohit Malayalam
+0;Lohit-Malayalam;0;5;5;2;65535;845;594;439;0;2854;1439;2854;1439;0;0;0;0;Regular
+
+File:VeraBI.ttf
+2;1
+Bitstream Vera Sans
+0;BitstreamVeraSans-BoldOblique;1;8;5;2;65535;928;235;163;0;1677;1163;1677;1163;0;0;0;4;Bold Oblique
+
+File:Purisa-BoldOblique.ttf
+2;1
+Purisa
+0;Purisa-BoldOblique;1;8;5;2;65535;1120;520;640;0;1900;1640;1900;1640;0;0;0;8;BoldOblique
+
+File:VeraBd.ttf
+2;1
+Bitstream Vera Sans
+0;BitstreamVeraSans-Bold;0;8;5;2;65535;928;235;163;0;1615;1163;1615;1163;0;0;0;4;Bold
+
+File:mal2-b.ttf
+2;1
+AkrutiMal2
+0;AkrutiMal2Bold;0;8;5;2;65535;800;369;169;0;2213;1169;2213;1169;0;0;0;1;Bold
+
+File:Garuda-BoldOblique.ttf
+2;1
+Garuda
+0;Garuda-BoldOblique;1;8;5;2;65535;1284;591;875;0;1767;1875;1767;1875;0;0;0;0;BoldOblique
+
+File:AkaashNormal.ttf
+2;1
+Akaash
+0;AkaashNormal;0;6;5;2;65535;915;242;157;0;1471;1157;1471;1157;0;0;0;12;Normal
+
+File:Vera.ttf
+2;1
+Bitstream Vera Sans
+0;BitstreamVeraSans-Roman;0;5;5;2;65535;928;235;163;0;1470;1163;1470;1163;0;0;0;4;Roman
+
+File:akruti1b.ttf
+2;1
+AkrutiTml1
+0;AkrutiTml1Bold;0;8;5;2;65535;897;303;200;0;1998;1200;1998;1200;0;0;0;1;Bold
+
+File:KhmerOS_muollight.ttf
+2;1
+Khmer OS Muol Light
+0;KhmerOSMuolLight;0;5;5;2;65535;1220;585;805;0;3701;1805;3701;1805;0;0;0;0;Regular
+
+File:VeraSeBd.ttf
+2;1
+Bitstream Vera Serif
+0;BitstreamVeraSerif-Bold;0;8;5;2;65535;938;235;173;0;1546;1173;1546;1173;0;0;0;4;Bold
+
+File:Umpush-Oblique.ttf
+2;1
+Umpush
+0;Umpush-Oblique;1;5;5;2;65535;1262;642;904;0;1889;1904;1889;1904;0;0;0;0;Oblique
+
+File:KhmerOS_siemreap.ttf
+2;1
+Khmer OS Siemreap
+0;KhmerOSSiemreap;0;5;5;2;65535;1220;585;805;0;3356;1805;3356;1805;0;0;0;0;Regular
+
+File:VeraMoBI.ttf
+2;1
+Bitstream Vera Sans Mono
+0;BitstreamVeraSansMono-BoldOb;1;8;5;1;65535;928;235;163;0;754;1163;754;1163;0;0;0;4;Bold Oblique
+
+File:LiberationSans-Bold.ttf
+2;1
+Liberation Sans
+0;LiberationSans-Bold;0;8;5;2;65535;905;211;116;0;1785;1116;1785;1116;0;0;0;0;Bold
+
+File:mal1-b.ttf
+2;1
+AkrutiMal1
+0;AkrutiMal1Bold;0;8;5;2;65535;800;382;182;0;1954;1182;1954;1182;0;0;0;1;Bold
+
+File:Lohit-Gujarati.ttf
+2;1
+Lohit Gujarati
+0;Lohit-Gujarati;0;5;5;2;65535;924;367;291;0;1838;1291;1838;1291;0;0;0;0;Regular
+
+File:DejaVuSans-Oblique.ttf
+2;1
+DejaVu Sans
+0;DejaVuSans-Oblique;1;5;5;2;65535;928;235;163;0;2674;1163;2674;1163;0;0;0;0;Oblique
+
+File:TlwgTypo-Bold.ttf
+2;1
+Tlwg Typo
+0;TlwgTypo-Bold;0;8;5;1;65535;916;388;304;0;673;1304;673;1304;0;0;0;0;Bold
+
+File:VeraMono.ttf
+2;1
+Bitstream Vera Sans Mono
+0;BitstreamVeraSansMono-Roman;0;5;5;1;65535;928;235;163;0;609;1163;609;1163;0;0;0;4;Roman
+
+File:mal2-n.ttf
+2;1
+AkrutiMal2
+0;AkrutiMal2Normal;0;5;5;2;65535;800;350;150;0;2212;1150;2212;1150;0;0;0;1;Normal
+
+File:akruti2.ttf
+2;1
+AkrutiTml2
+0;AkrutiTml2Normal;0;5;5;2;65535;800;322;122;0;2019;1122;2019;1122;0;0;0;1;Normal
+
+File:Loma-Oblique.ttf
+2;1
+Loma
+0;Loma-Oblique;1;5;5;2;65535;1145;440;585;0;1847;1585;1847;1585;0;0;0;0;Oblique
+
+File:DejaVuSans-ExtraLight.ttf
+2;1
+DejaVu Sans Light
+0;DejaVuSans-ExtraLight;0;2;5;2;65535;928;235;163;0;2391;1163;2391;1163;0;0;0;0;ExtraLight
+
+File:Umpush-LightOblique.ttf
+2;1
+Umpush
+0;Umpush-LightOblique;1;3;5;2;65535;1230;590;820;0;1767;1820;1767;1820;0;0;0;0;LightOblique
+
+File:akruti2b.ttf
+2;1
+AkrutiTml2
+0;AkrutiTml2Bold;0;8;5;2;65535;800;393;193;0;2149;1193;2149;1193;0;0;0;1;Bold
+
+File:DejaVuSerif-Bold.ttf
+2;1
+DejaVu Serif
+0;DejaVuSerif-Bold;0;8;5;2;65535;938;235;173;0;2630;1173;2630;1173;0;0;0;0;Bold
+
+File:DejaVuSansCondensed-Bold.ttf
+2;1
+DejaVu Sans Condensed
+0;DejaVuSansCondensed-Bold;0;8;4;2;65535;928;235;163;0;2739;1163;2739;1163;0;0;0;0;Condensed Bold
+
+File:Lohit-Kannada.ttf
+2;1
+Lohit Kannada
+0;Lohit-Kannada;0;5;5;2;65535;878;683;561;0;3418;1561;3418;1561;0;0;0;0;Regular
+
+File:VeraIt.ttf
+2;1
+Bitstream Vera Sans
+0;BitstreamVeraSans-Oblique;1;5;5;2;65535;928;235;163;0;1520;1163;1520;1163;0;0;0;4;Oblique
+
+File:DejaVuSans-Bold.ttf
+2;1
+DejaVu Sans
+0;DejaVuSans-Bold;0;8;5;2;65535;928;235;163;0;3044;1163;3044;1163;0;0;0;0;Bold
+
+File:Pothana2000.ttf
+2;1
+Pothana2000
+0;Pothana2000;0;5;5;2;65535;880;840;720;0;2532;1720;2532;1720;0;0;0;2;Regular
+
+File:DejaVuSansCondensed-BoldOblique.ttf
+2;1
+DejaVu Sans Condensed
+0;DejaVuSansCondensed-BoldOblique;1;8;4;2;65535;928;235;163;0;2758;1163;2758;1163;0;0;0;0;Condensed Bold Oblique
+
+File:DejaVuSerif-BoldItalic.ttf
+2;1
+DejaVu Serif
+0;DejaVuSerif-BoldItalic;2;8;5;2;65535;938;235;173;0;2658;1173;2658;1173;0;0;0;0;Bold Italic
+
+File:DejaVuSansCondensed.ttf
+2;1
+DejaVu Sans Condensed
+0;DejaVuSansCondensed;0;5;4;2;65535;928;235;163;0;2430;1163;2430;1163;0;0;0;0;Condensed
+
+File:LiberationMono-Bold.ttf
+2;1
+Liberation Mono
+0;LiberationMono-Bold;0;8;5;1;65535;832;300;132;0;1177;1132;1177;1132;0;0;0;0;Bold
+
+File:Kinnari-Oblique.ttf
+2;1
+Kinnari
+0;Kinnari-Oblique;1;6;5;2;65535;1286;496;782;0;2122;1782;2122;1782;0;0;0;0;Oblique
+
+File:DejaVuSansMono-BoldOblique.ttf
+2;1
+DejaVu Sans Mono
+0;DejaVuSansMono-BoldOblique;1;8;5;1;65535;928;235;163;0;1232;1163;1232;1163;0;0;0;0;Bold Oblique
+
+File:DejaVuSerifCondensed-Italic.ttf
+2;1
+DejaVu Serif Condensed
+0;DejaVuSerifCondensed-Italic;2;5;4;2;65535;928;235;163;0;2235;1163;2235;1163;0;0;0;0;Condensed Italic
+
+File:DejaVuSansMono-Bold.ttf
+2;1
+DejaVu Sans Mono
+0;DejaVuSansMono-Bold;0;8;5;1;65535;928;235;163;0;1176;1163;1176;1163;0;0;0;0;Bold
+
+File:TlwgTypist.ttf
+2;1
+Tlwg Typist
+0;TlwgTypist;0;6;5;2;65535;875;364;239;0;2280;1239;2280;1239;0;0;0;0;Medium
+
+File:Garuda.ttf
+2;1
+Garuda
+0;Garuda;0;5;5;2;65535;1284;591;875;0;1749;1875;1749;1875;0;0;0;0;Book
+
+File:Garuda-Oblique.ttf
+2;1
+Garuda
+0;Garuda-Oblique;1;5;5;2;65535;1284;591;875;0;1672;1875;1672;1875;0;0;0;0;Oblique
+
+File:DejaVuSansMono-Oblique.ttf
+2;1
+DejaVu Sans Mono
+0;DejaVuSansMono-Oblique;1;5;5;1;65535;928;235;163;0;1148;1163;1148;1163;0;0;0;0;Oblique
+
+File:DejaVuSerifCondensed-BoldItalic.ttf
+2;1
+DejaVu Serif Condensed
+0;DejaVuSerifCondensed-BoldItalic;2;8;4;2;65535;938;235;173;0;2393;1173;2393;1173;0;0;0;0;Condensed Bold Italic
+
+File:KhmerOS_sys.ttf
+2;1
+Khmer OS System
+0;KhmerOSsys;0;5;5;2;65535;1220;585;805;0;3710;1805;3710;1805;0;0;0;0;Regular
+
+File:DejaVuSerifCondensed-Bold.ttf
+2;1
+DejaVu Serif Condensed
+0;DejaVuSerifCondensed-Bold;0;8;4;2;65535;938;235;173;0;2368;1173;2368;1173;0;0;0;0;Condensed Bold
+
+File:DejaVuSerif-Italic.ttf
+2;1
+DejaVu Serif
+0;DejaVuSerif-Italic;2;5;5;2;65535;928;235;163;0;2483;1163;2483;1163;0;0;0;0;Italic
+
+File:KhmerOS_freehand.ttf
+2;1
+Khmer OS Freehand
+0;KhmerOSfreehand;0;5;5;2;65535;1464;781;1245;0;3976;2245;3976;2245;0;0;0;0;Regular
+
+File:DejaVuSerif.ttf
+2;1
+DejaVu Serif
+0;DejaVuSerif;0;5;5;2;65535;928;235;163;0;2448;1163;2448;1163;0;0;0;0;Book
+
+File:DejaVuSerifCondensed.ttf
+2;1
+DejaVu Serif Condensed
+0;DejaVuSerifCondensed;0;5;4;2;65535;928;235;163;0;2203;1163;2203;1163;0;0;0;0;Condensed
+
+File:Norasi-Italic.ttf
+2;1
+Norasi
+0;Norasi-Italic;2;5;5;2;65535;1216;488;704;0;2137;1704;2137;1704;0;0;0;0;Italic
+
+File:Lohit-Telugu.ttf
+2;1
+Lohit Telugu
+0;Lohit-Telugu;0;5;5;2;65535;916;658;574;0;2642;1574;2642;1574;0;0;0;0;Regular
+
+File:Sampige.ttf
+2;1
+Sampige
+0;Sampige;0;5;5;2;65535;620;380;150;0;2201;1000;2201;1000;0;0;0;8;Regular
+
+File:Garuda-Bold.ttf
+2;1
+Garuda
+0;Garuda-Bold;0;8;5;2;65535;1284;591;875;0;1849;1875;1849;1875;0;0;0;0;Bold
+
+File:gbolilite.ttf
+2;1
+GurbaniBoliLite
+0;GurbaniBoliLite;0;6;1;2;65535;801;251;52;0;1115;1052;1115;1052;0;0;0;8;Medium
+
+File:KhmerOS .ttf
+2;1
+Khmer OS
+0;KhmerOS;0;5;5;2;65535;1269;732;1001;0;3710;2001;3710;2001;0;0;0;0;Regular
+
+File:Waree-BoldOblique.ttf
+2;1
+Waree
+0;Waree-BoldOblique;1;8;5;2;65535;1240;515;755;0;2133;1755;2133;1755;0;0;0;0;BoldOblique
+
+File:KhmerOS_battambang.ttf
+2;1
+Khmer OS Battambang
+0;KhmerOSbattambang;0;5;5;2;65535;1220;585;805;0;3358;1805;3358;1805;0;0;0;0;Regular
+
+File:KhmerOS_content.ttf
+2;1
+Khmer OS Content
+0;KhmerOScontent;0;5;5;2;65535;1220;585;805;0;3266;1805;3266;1805;0;0;0;0;Regular
+
+File:Loma-Bold.ttf
+2;1
+Loma
+0;Loma-Bold;0;8;5;2;65535;1145;440;585;0;2090;1585;2090;1585;0;0;0;0;Bold
+
+File:Loma.ttf
+2;1
+Loma
+0;Loma;0;5;5;2;65535;1145;440;585;0;1936;1585;1936;1585;0;0;0;0;Book
+
+File:KhmerOS_fasthand.ttf
+2;1
+Khmer OS Fasthand
+0;KhmerOSfasthand;0;5;5;2;65535;1464;781;1245;0;4024;2245;4024;2245;0;0;0;0;Regular
+
+File:LiberationSans-Italic.ttf
+2;1
+Liberation Sans
+0;LiberationSans-Italic;2;5;5;2;65535;905;211;116;0;2024;1116;2024;1116;0;0;0;0;Italic
+
+File:TlwgMono.ttf
+2;1
+TlwgMono
+0;TlwgMono;0;6;5;1;65535;861;371;232;0;685;1232;685;1232;0;0;0;0;Medium
+
+File:KhmerOS_muol.ttf
+2;1
+Khmer OS Muol
+0;KhmerOSmuol;0;5;5;2;65535;1367;683;1050;0;3808;2050;3808;2050;0;0;0;0;Regular
+
+File:oriya.ttf
+2;1
+orya
+0;orya;0;6;5;2;65535;799;200;179;0;1148;999;1148;999;0;0;0;8;Medium
+
+File:KhmerOS_muolpali.ttf
+2;1
+Khmer OS Muol Pali
+0;Khmer-OS-Muol-Pali;0;5;5;2;65535;1464;781;1245;0;4393;2245;4393;2245;0;0;0;0;Regular
+
+File:Kinnari.ttf
+2;1
+Kinnari
+0;Kinnari;0;6;5;2;65535;1286;496;782;0;2222;1782;2222;1782;0;0;0;0;Medium
+
+File:Kinnari-BoldItalic.ttf
+2;1
+Kinnari
+0;Kinnari-BoldItalic;2;8;5;2;65535;1286;496;782;0;2017;1782;2017;1782;0;0;0;0;BoldItalic
+
+File:Kinnari-Bold.ttf
+2;1
+Kinnari
+0;Kinnari-Bold;0;8;5;2;65535;1286;496;782;0;2244;1782;2244;1782;0;0;0;0;Bold
+
+File:LiberationSans-Regular.ttf
+2;1
+Liberation Sans
+0;LiberationSans;0;5;5;2;65535;905;211;116;0;1844;1116;1844;1116;0;0;0;0;Regular
+
+File:LiberationMono-BoldItalic.ttf
+2;1
+Liberation Mono
+0;LiberationMono-BoldItalic;2;8;5;1;65535;832;300;132;0;1272;1132;1272;1132;0;0;0;0;Bold Italic
+
+File:LiberationSerif-Regular.ttf
+2;1
+Liberation Serif
+0;LiberationSerif;0;5;5;2;65535;891;216;107;0;1821;1107;1821;1107;0;0;0;0;Regular
+
+File:Lohit-Hindi.ttf
+2;1
+Lohit Hindi
+0;Lohit-Hindi;0;5;5;2;65535;999;502;501;0;1922;1501;1922;1501;0;0;0;0;Regular
+
+File:LiberationSerif-BoldItalic.ttf
+2;1
+Liberation Serif
+0;LiberationSerif-BoldItalic;2;8;5;2;65535;891;216;107;0;1850;1107;1850;1107;0;0;0;0;Bold Italic
+
+File:Lohit-Sindhi.ttf
+2;1
+Lohit Sindhi
+0;Lohit-Sindhi;0;5;5;2;65535;999;502;501;0;1922;1501;1922;1501;0;0;0;0;Regular
+
+File:LiberationSerif-Italic.ttf
+2;1
+Liberation Serif
+0;LiberationSerif-Italic;2;5;5;2;65535;891;216;107;0;1829;1107;1829;1107;0;0;0;0;Italic
+
+File:Sawasdee-Bold.ttf
+2;1
+Sawasdee
+0;Sawasdee-Bold;0;8;5;2;65535;1098;431;529;0;1982;1529;1982;1529;0;0;0;8;Bold
+
+File:TSCu_Paranar.ttf
+2;1
+TSCu_Paranar
+0;TSCu_Paranar;0;5;5;2;65535;724;326;50;0;1729;1050;1729;1050;0;0;0;4;Regular
+
+File:LiberationSerif-Bold.ttf
+2;1
+Liberation Serif
+0;LiberationSerif-Bold;0;8;5;2;65535;891;216;107;0;1887;1107;1887;1107;0;0;0;0;Bold
+
+File:LikhanNormal.ttf
+2;1
+Likhan
+0;LikhanNormal;0;6;5;2;65535;766;242;8;0;1481;1008;1481;1008;0;0;0;12;Normal
+
+File:TlwgTypewriter-Oblique.ttf
+2;1
+TlwgTypewriter
+0;TlwgTypewriter-Oblique;1;5;5;2;65535;895;379;274;0;2167;1274;2167;1274;0;0;0;0;Oblique
+
+File:TAMu_Maduram.ttf
+2;1
+TAMu_Maduram
+0;TAMu_Maduram;0;5;5;2;65535;818;216;34;0;1838;1034;1838;1034;0;0;0;2;Normal
+
+File:Lohit-Assamese.ttf
+2;1
+Lohit Assamese
+0;Lohit-Assamese;0;5;5;2;65535;988;422;410;0;2089;1410;2089;1410;0;0;0;0;Regular
+
+File:Lohit-Maithili.ttf
+2;1
+Lohit Maithili
+0;Lohit-Maithili;0;5;5;2;65535;999;502;501;0;1922;1501;1922;1501;0;0;0;0;Regular
+
+File:Lohit-Punjabi.ttf
+2;1
+Lohit Punjabi
+0;Lohit-Punjabi;0;5;5;2;65535;1170;647;817;0;2400;1817;2400;1817;0;0;0;0;Regular
+
+File:Lohit-Tamil.ttf
+2;1
+Lohit Tamil
+0;Lohit-Tamil;0;5;5;2;65535;845;354;199;0;2020;1199;2020;1199;0;0;0;0;Regular
+
+File:MuktiNarrowBold.ttf
+2;1
+Mukti Narrow
+0;muktinarrowbold;0;8;5;2;65535;1241;438;679;0;1772;1679;1772;1679;0;0;0;0;Regular
+
+File:Lohit-Tamil-Classical.ttf
+2;1
+Lohit Tamil Classical
+0;Lohit-Tamil-Classical;0;5;5;2;65535;845;354;199;0;2020;1199;2020;1199;0;0;0;0;Regular
+
+File:ani.ttf
+2;1
+Mukti Narrow
+0;muktinarrowbold;0;8;5;2;65535;1241;438;679;0;1720;1679;1720;1679;0;0;0;0;Regular
+
+File:Umpush-Light.ttf
+2;1
+Umpush
+0;Umpush-Light;0;3;5;2;65535;1230;590;820;0;1866;1820;1866;1820;0;0;0;0;Light
+
+File:Loma-BoldOblique.ttf
+2;1
+Loma
+0;Loma-BoldOblique;1;8;5;2;65535;1145;440;585;0;2007;1585;2007;1585;0;0;0;0;BoldOblique
+
+File:mm3.ttf
+2;1
+Myanmar3
+0;Myanmar3;0;5;5;2;65535;1000;444;444;0;2862;1444;2862;1444;0;0;0;0;Regular
+
+File:Norasi-Bold.ttf
+2;1
+Norasi
+0;Norasi-Bold;0;8;5;2;65535;1216;488;704;0;2200;1704;2200;1704;0;0;0;0;Bold
+
+File:Norasi-BoldOblique.ttf
+2;1
+Norasi
+0;Norasi-BoldOblique;1;8;5;2;65535;1216;488;704;0;2133;1704;2133;1704;0;0;0;0;BoldOblique
+
+File:Norasi-Oblique.ttf
+2;1
+Norasi
+0;Norasi-Oblique;1;5;5;2;65535;1216;488;704;0;2091;1704;2091;1704;0;0;0;0;Oblique
+
+File:Norasi.ttf
+2;1
+Norasi
+0;Norasi;0;5;5;2;65535;1216;488;704;0;2140;1704;2140;1704;0;0;0;0;Regular
+
+File:Umpush-Bold.ttf
+2;1
+Umpush
+0;Umpush-Bold;0;8;5;2;65535;1288;659;947;0;2117;1947;2117;1947;0;0;0;0;Bold
+
+File:TlwgMono-Bold.ttf
+2;1
+TlwgMono
+0;TlwgMono-Bold;0;8;5;1;65535;938;393;331;0;704;1331;704;1331;0;0;0;0;Bold
+
+File:Purisa-Bold.ttf
+2;1
+Purisa
+0;Purisa-Bold;0;8;5;2;65535;1120;520;640;0;1900;1640;1900;1640;0;0;0;8;Bold
+
+File:Purisa.ttf
+2;1
+Purisa
+0;Purisa;0;5;5;2;65535;1109;503;612;0;1861;1612;1861;1612;0;0;0;8;Medium
+
+File:SagarNormal.ttf
+2;1
+Sagar
+0;SagarNormal;0;6;5;2;65535;862;265;127;0;1573;1127;1573;1127;0;0;0;12;Normal
+
+File:Sawasdee-Oblique.ttf
+2;1
+Sawasdee
+0;Sawasdee-Oblique;1;5;5;2;65535;1080;414;494;0;1808;1494;1808;1494;0;0;0;8;Oblique
+
+File:Lohit-Kashmiri.ttf
+2;1
+Lohit Kashmiri
+0;Lohit-Kashmiri;0;5;5;2;65535;999;502;501;0;1922;1501;1922;1501;0;0;0;0;Regular
+
+File:Norasi-BoldItalic.ttf
+2;1
+Norasi
+0;Norasi-BoldItalic;2;8;5;2;65535;1216;488;704;0;2177;1704;2177;1704;0;0;0;0;BoldItalic
+
+File:TAMu_Kadampari.ttf
+2;1
+TAMu_Kadambri
+0;TAMu_Kadambri-Regular;0;5;5;2;65535;877;217;94;0;1745;1094;1745;1094;0;0;0;0;Regular
+
+File:Sawasdee.ttf
+2;1
+Sawasdee
+0;Sawasdee;0;5;5;2;65535;1080;414;494;0;1885;1494;1885;1494;0;0;0;8;Regular
+
+File:Sawasdee-BoldOblique.ttf
+2;1
+Sawasdee
+0;Sawasdee-BoldOblique;1;8;5;2;65535;1098;431;529;0;1909;1529;1909;1529;0;0;0;8;BoldOblique
+
+File:TSCu_Comic.ttf
+2;1
+TSCu_Comic
+0;TSCu_Comic;0;5;5;2;65535;766;348;114;0;1785;1114;1785;1114;0;0;0;2;Normal
+
+File:TSCu_paranari.ttf
+2;1
+TSCu_Paranar
+0;TSCu_Paranar;2;5;5;2;65535;724;326;50;0;1710;1050;1710;1050;0;0;0;4;Italic
+
+File:TSCu_paranarb.ttf
+2;1
+TSCu_Paranar
+0;TSCu_Paranar;0;8;5;2;65535;724;326;50;0;1768;1050;1768;1050;0;0;0;4;Bold
+
+File:Gargi-1.2b.ttf
+2;1
+Gargi-1.2b;Gargi;edio ;smita
+0;Gargi-1.2b;2;6;5;2;65535;1130;285;415;0;29878;1415;29878;1415;0;0;0;8;1.2b
+
+File:TSCu_Times.ttf
+2;1
+TSCu_Times
+0;TSCu_Times;0;5;5;2;65535;706;298;4;0;1783;1004;1783;1004;0;0;0;2;Normal
+
+File:LiberationMono-Italic.ttf
+2;1
+Liberation Mono
+0;LiberationMono-Italic;2;5;5;1;65535;832;300;132;0;1304;1132;1304;1132;0;0;0;0;Italic
+
+File:Lohit-Nepali.ttf
+2;1
+Lohit Nepali
+0;Lohit-Nepali;0;5;5;2;65535;1094;502;596;0;1922;1596;1922;1596;0;0;0;0;Regular
+
+File:TAMu_Kalyani.ttf
+2;1
+TAMu_Kalyani
+0;TAMu_Kalyani;0;5;5;2;65535;804;204;8;0;1603;1008;1603;1008;0;0;0;0;Regular
+
+File:TlwgTypist-BoldOblique.ttf
+2;1
+Tlwg Typist
+0;TlwgTypist-BoldOblique;1;8;5;2;65535;916;364;280;0;2207;1280;2207;1280;0;0;0;0;BoldOblique
+
+File:TlwgTypewriter-BoldOblique.ttf
+2;1
+TlwgTypewriter
+0;TlwgTypewriter-BoldOblique;1;8;5;2;65535;938;368;306;0;2260;1306;2260;1306;0;0;0;0;BoldOblique
+
+File:akruti1.ttf
+2;1
+AkrutiTml1
+0;AkrutiTml1Normal;0;5;5;2;65535;897;303;200;0;2074;1200;2074;1200;0;0;0;1;Normal
+
+File:TlwgTypewriter-Bold.ttf
+2;1
+TlwgTypewriter
+0;TlwgTypewriter-Bold;0;8;5;2;65535;938;368;306;0;2354;1306;2354;1306;0;0;0;0;Bold
+
+File:TlwgTypist-Bold.ttf
+2;1
+Tlwg Typist
+0;TlwgTypist-Bold;0;8;5;2;65535;916;364;280;0;2334;1280;2334;1280;0;0;0;0;Bold
+
+File:Umpush-BoldOblique.ttf
+2;1
+Umpush
+0;Umpush-BoldOblique;1;8;5;2;65535;1288;659;947;0;2029;1947;2029;1947;0;0;0;0;BoldOblique
+
+File:Lohit-Oriya.ttf
+2;1
+Lohit Oriya
+0;Lohit-Oriya;0;5;5;2;65535;1118;610;728;0;2092;1728;2092;1728;0;0;0;0;Regular
+
+File:TlwgTypewriter.ttf
+2;1
+TlwgTypewriter
+0;TlwgTypewriter;0;6;5;2;65535;895;379;274;0;2268;1274;2268;1274;0;0;0;0;Medium
+
+File:LiberationMono-Regular.ttf
+2;1
+Liberation Mono
+0;LiberationMono;0;5;5;1;65535;832;300;132;0;1223;1132;1223;1132;0;0;0;0;Regular
+
+File:TlwgTypo-Oblique.ttf
+2;1
+Tlwg Typo
+0;TlwgTypo-Oblique;1;6;5;1;65535;875;364;239;0;845;1239;845;1239;0;0;0;0;Oblique
+
+File:Umpush.ttf
+2;1
+Umpush
+0;Umpush;0;5;5;2;65535;1262;642;904;0;1955;1904;1955;1904;0;0;0;0;Book
+
+File:Lohit-Marathi.ttf
+2;1
+Lohit Marathi
+0;Lohit-Marathi;0;5;5;2;65535;1094;502;596;0;1922;1596;1922;1596;0;0;0;0;Regular
+
+File:Lohit-Bengali.ttf
+2;1
+Lohit Bengali
+0;Lohit-Bengali;0;5;5;2;65535;988;422;410;0;2089;1410;2089;1410;0;0;0;0;Regular
+
+File:TlwgTypist-Oblique.ttf
+2;1
+Tlwg Typist
+0;TlwgTypist-Oblique;1;6;5;2;65535;875;364;239;0;2161;1239;2161;1239;0;0;0;0;Oblique
+
+File:LiberationSans-BoldItalic.ttf
+2;1
+Liberation Sans
+0;LiberationSans-BoldItalic;2;8;5;2;65535;905;211;116;0;1834;1116;1834;1116;0;0;0;0;Bold Italic
+
+File:TlwgTypo-BoldOblique.ttf
+2;1
+Tlwg Typo
+0;TlwgTypo-BoldOblique;1;8;5;1;65535;916;388;304;0;848;1304;848;1304;0;0;0;0;BoldOblique
+
+File:padmaa-Bold-0.5.ttf
+2;1
+padmaa;padmmaa
+0;padmaa-Bold;0;8;5;2;65535;770;381;151;0;1471;1151;1471;1151;0;0;0;8;Bold
+
+File:Waree-Bold.ttf
+2;1
+Waree
+0;Waree-Bold;0;8;5;2;65535;1240;515;755;0;2225;1755;2225;1755;0;0;0;0;Bold
+
+File:Kinnari-BoldOblique.ttf
+2;1
+Kinnari
+0;Kinnari-BoldOblique;1;8;5;2;65535;1286;496;782;0;2150;1782;2150;1782;0;0;0;0;BoldOblique
+
+File:TlwgMono-Oblique.ttf
+2;1
+TlwgMono
+0;TlwgMono-Oblique;1;5;5;1;65535;887;379;266;0;856;1266;856;1266;0;0;0;0;Oblique
+
+File:TlwgTypo.ttf
+2;1
+Tlwg Typo
+0;TlwgTypo;0;6;5;1;65535;875;364;239;0;624;1239;624;1239;0;0;0;0;Medium
+
+File:Waree.ttf
+2;1
+Waree
+0;Waree;0;5;5;2;65535;1232;430;662;0;1972;1662;1972;1662;0;0;0;0;Book
+
+File:MalOtf.ttf
+2;1
+MalOtf
+0;MalOtf;0;5;5;2;65535;770;438;208;0;2213;1208;2213;1208;0;0;0;12;Book
+
+File:KhmerOS_bokor.ttf
+2;1
+Khmer OS Bokor
+0;KhmerOSbokor;0;5;5;2;65535;1464;781;1245;0;3223;2245;3223;2245;0;0;0;0;Regular
+
+File:TlwgMono-BoldOblique.ttf
+2;1
+TlwgMono
+0;TlwgMono-BoldOblique;1;8;5;1;65535;938;368;306;0;827;1306;827;1306;0;0;0;0;BoldOblique
+
+File:malayalam.ttf
+2;1
+malayalam
+0;malayalam;0;5;5;2;65535;770;542;312;0;2182;1312;2182;1312;0;0;0;12;Regular
+
+File:Purisa-Oblique.ttf
+2;1
+Purisa
+0;Purisa-Oblique;1;5;5;2;65535;1109;503;612;0;1863;1612;1863;1612;0;0;0;8;Oblique
+
+File:Waree-Oblique.ttf
+2;1
+Waree
+0;Waree-Oblique;1;5;5;2;65535;1232;430;662;0;1878;1662;1878;1662;0;0;0;0;Oblique
+
+File:Lohit-Konkani.ttf
+2;1
+Lohit Konkani
+0;Lohit-Konkani;0;5;5;2;65535;999;502;501;0;1922;1501;1922;1501;0;0;0;0;Regular
+
+File:MuktiNarrow.ttf
+2;1
+Mukti Narrow
+0;muktinarrow;0;5;5;2;65535;1241;438;679;0;1773;1679;1773;1679;0;0;0;0;Regular
+
+File:padmaa-Medium-0.5.ttf
+2;1
+padmaa;padmmaa
+0;padmaa-Medium;0;6;5;2;65535;770;381;151;0;1392;1151;1392;1151;0;0;0;8;regular
+
+FontCacheDirectory:1402147657:/usr/share/fonts/thaana-fonts
+File:Utheemp.ttf
+2;1
+Utheem P
+0;VoguePSMT;0;5;5;2;10;925;496;421;0;1120;1421;1120;1421;0;0;0;1;Regular
+
+File:Mv Iyyu Formal.ttf
+2;1
+Mv Iyyu Formal
+0;MvIyyuFormal;0;5;5;2;65535;1092;489;581;0;1113;1581;1113;1581;0;0;0;6;Regular
+
+File:Thaana.ttf
+2;1
+Thaana - BOLD
+0;ThaanaBOLD;0;8;9;2;65535;747;252;-1;0;930;999;930;999;0;0;0;0;Regular
+
+File:Radhap.ttf
+2;1
+Raadhavalhi P
+0;VoguePSMT;0;5;5;2;10;925;402;327;0;901;1327;901;1327;0;0;0;1;Regular
+
+File:Mv Iyyu Normal.otf.ttf
+2;1
+Mv Iyyu Normal
+0;MvIyyuNormal;0;5;5;2;65535;1092;489;581;0;959;1581;959;1581;0;0;0;6;Regular
+
+File:Athiri01.ttf
+2;1
+Novel03
+0;Athiri01;0;8;5;2;65535;866;629;495;0;1188;1495;1188;1495;0;0;0;0;Bold
+
+File:Mv Radhun.ttf
+2;1
+Mv Radhun
+0;MvRadhun;0;5;5;2;65535;1092;489;581;0;1066;1581;1066;1581;0;0;0;6;Regular
+
+File:Mv Iyyu Nala.ttf
+2;1
+Mv Iyyu Nala
+0;MvIyyuNala;0;5;5;2;65535;1092;489;581;0;963;1581;963;1581;0;0;0;6;Regular
+
+File:Mv Elaaf Lite.otf.ttf
+2;1
+Mv Elaaf Lite
+0;MvElaafLite;0;5;5;2;65535;1092;489;581;0;1145;1581;1145;1581;0;0;0;6;Regular
+
+File:Faseyp.ttf
+2;1
+Faseyha P
+0;ElroNet-Proportional;0;5;5;2;65535;884;505;389;0;1169;1389;1169;1389;0;0;0;2;Normal
+
+File:Akurub.ttf
+2;1
+Akuru-Bodu
+0;Akurub;0;8;5;1;10;925;317;242;0;665;1242;665;1242;0;0;0;0;Bold
+
+File:Radafala.ttf
+2;1
+A_Raadhavalhi B
+0;VoguePSMT;0;7;5;2;10;925;402;327;0;901;1327;901;1327;0;0;0;1;Regular
+
+File:Aahthedu.ttf
+2;1
+Aammu HimaThedhu
+0;VoguePSMT;0;5;5;2;65535;925;505;430;0;1258;1430;1258;1430;0;0;0;1;Regular
+
+File:Aafrasmy.ttf
+2;1
+AammuFRasmy
+0;Aammu-FalaRasmee;0;5;5;2;65535;702;362;64;0;709;1064;709;1064;0;0;0;0;Regular
+
+File:Aafthedu.ttf
+2;1
+AammuFThedhu
+0;Aammu-FalaThedhu;0;8;5;2;10;701;362;63;0;719;1063;719;1063;0;0;0;0;Regular
+
+File:Utheem.ttf
+2;1
+A_Utheem
+0;VoguePSMT;0;5;5;2;10;925;496;421;0;1121;1421;1121;1421;0;0;0;1;Regular
+
+File:Athiri02.ttf
+2;1
+Novel02
+0;Athiri02;0;8;5;2;65535;866;513;379;0;1170;1379;1170;1379;0;0;0;0;Bold
+
+File:9603ran.ttf
+2;1
+Aa_Randhoo T
+0;VoguePSMT;0;5;5;2;10;925;557;482;0;1107;1482;1107;1482;0;0;0;1;Regular
+
+File:Raadha.ttf
+2;1
+A_Raadhavalhi
+0;VoguePSMT;0;5;5;2;10;925;402;327;0;901;1327;901;1327;0;0;0;1;Regular
+
+File:Waheedp.ttf
+2;1
+Waheed P
+0;VoguePSMT;0;5;5;2;65535;925;485;410;0;1076;1410;1076;1410;0;0;0;1;Regular
+
+File:Radhafp.ttf
+2;1
+Raadhavalhi FP
+0;VoguePSMT;0;7;5;2;10;925;402;327;0;901;1327;901;1327;0;0;0;1;Regular
+
+File:Mv Elaaf Formal.ttf
+2;1
+Mv Elaaf Formal
+0;MvElaafFormal;0;5;5;2;65535;1092;489;581;0;984;1581;984;1581;0;0;0;6;Normal
+
+File:Ilham.ttf
+2;1
+A_Ilham
+0;VoguePSMT;0;5;5;2;65535;925;445;370;0;1173;1370;1173;1370;0;0;0;1;Regular
+
+File:Faseyha.ttf
+2;1
+A_Faseyha
+0;VoguePSMT;0;5;5;2;10;925;505;430;0;1174;1430;1174;1430;0;0;0;1;Regular
+
+File:Afk2p.ttf
+2;1
+AammuFK P
+0;Aammu-FalaRasmee;0;8;5;2;65535;649;319;-32;0;676;968;676;968;0;0;0;0;Regular
+
+File:Waheed.ttf
+2;1
+A_Waheed
+0;VoguePSMT;0;5;5;2;10;925;485;410;0;1076;1410;1076;1410;0;0;0;1;Regular
+
+File:Mv Elaaf Normal.otf.ttf
+2;1
+Mv Elaaf Normal
+0;MvElaafNormal;0;5;5;2;65535;1092;489;581;0;922;1581;922;1581;0;0;0;6;Normal
+
+File:faruma.ttf
+2;1
+Faruma
+0;Faruma;0;5;5;2;65535;1139;472;611;0;1868;1611;1868;1611;0;0;0;8;Regular
+
+File:Bismi.ttf
+2;1
+A_Bismillah
+0;A_Bismillah;0;5;5;2;65535;881;264;145;0;2604;1145;2604;1145;0;0;0;1;Normal
+
+File:Athiri.ttf
+2;1
+Novel04
+0;Athiri;0;5;5;2;65535;866;555;421;0;1159;1421;1159;1421;0;0;0;0;Regular
+
+File:Thanabuw.ttf
+2;1
+Thaana - Bold
+0;ThaanaBoldBold;0;10;5;2;65535;660;268;-72;0;720;928;720;928;0;0;0;0;Bold
+
+File:Randhoo.ttf
+2;1
+A_Randhoo
+0;VoguePSMT;0;5;5;2;10;925;557;482;0;1107;1482;1107;1482;0;0;0;1;Regular
+
+File:mvboli.ttf
+2;1
+MV Boli
+0;MVBoli;0;5;5;2;65535;1139;472;611;0;1214;1611;1214;1611;0;0;0;8;Regular
+
+File:Athiri03.ttf
+2;1
+Novel01
+0;Athiri03;0;8;5;1;10;866;480;346;0;1261;1346;1261;1346;0;0;0;0;Bold
+
+File:Amufk2.ttf
+2;1
+A_AammuFK
+0;Aammu-FalaRasmee;0;8;5;2;65535;707;319;26;0;858;1026;858;1026;0;0;0;0;Regular
+
+File:Randp.ttf
+2;1
+Aa_Randhoo P
+0;VoguePSMT;0;5;5;2;10;925;557;482;0;1107;1482;1107;1482;0;0;0;1;Regular
+
+File:Akko.ttf
+2;1
+AKKO
+0;AKKO;0;5;5;2;65535;625;252;-123;0;666;877;666;877;0;0;0;0;Regular
+

@@ -1,0 +1,14 @@
+T 1405987382 19*	Now talking on 22#sqlalchemy
+T 1405987382 22*	Topic for 22#sqlalchemy is: Follow #sqlalchemy on Twitter:  http://twitter.com/#search?q=%23sqlalchemy .
+T 1405987382 22*	Topic for 22#sqlalchemy set by 26zzzeek (24Sun Jul 12 17:04:30 2009)
+T 1405987383 22*	Channel 22#sqlalchemy url: 24http://www.sqlalchemy.org
+T 1405987852 23*	enmand (~enmand@sydnns0109w-142068200018.dhcp-dynamic.FibreOp.ns.bellaliant.net23) has joined
+T 1405988096 24*	rocky has quit (Remote host closed the connection)
+T 1405988352 24*	irsol has quit (Remote host closed the connection)
+T 1405988387 24*	hazmat has quit (Ping timeout: 245 seconds)
+T 1405988622 23*	hazmat (~hazmat@192.241.248.18523) has joined
+T 1405988622 24*	hazmat has quit (Changing host)
+T 1405988622 23*	hazmat (~hazmat@plone/hazmat23) has joined
+T 1405989056 24*	zzzeek has quit (Quit: zzzeek)
+T 1405989115 24*	atomekk has quit (Ping timeout: 250 seconds)
+T 1405989605 23*	jessepollak (~jessepoll@204.28.115.12623) has joined

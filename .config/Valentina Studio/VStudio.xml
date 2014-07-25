@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<properties>
+	<Diagrams>
+		<StartPage value="0"/>
+	</Diagrams>
+	<LT>
+		<wToolkit>
+			<maskDir>
+				<Database_Files9QUdb7QUsqlite7QUvdb9All_Files9QUQ value="/home/kuedan/db"/>
+			</maskDir>
+		</wToolkit>
+	</LT>
+	<MainWindow>
+		<height value="750"/>
+		<maximized value="0"/>
+		<width value="1000"/>
+		<x value="140"/>
+		<y value="0"/>
+	</MainWindow>
+	<Recents>
+		<DB_Infos value="L2hvbWUva3VlZGFuL2RiL2dvcC1mYWlyLnNxbGl0ZTM="/>
+		<DB_Labels value="Z29wLWZhaXIgYXQgL2hvbWUva3VlZGFuL2Ri"/>
+		<DB_Props value="UTI5dWJtVmpkR2x2YmlCR1lXTjBiM0o1IFUzRnNhWFJsSUVSaGRHRmlZWE5sSUVacGJHVnoKVUdGMGFBPT0gTDJodmJXVXZhM1ZsWkdGdUwyUmlMMmR2Y0MxbVlXbHlMbk54YkdsMFpUTT0K"/>
+		<DB_Tips value="!"/>
+	</Recents>
+	<SchemaEditor>
+		<BonjourState value="1"/>
+		<BookmarksState value="1"/>
+		<Columns>
+			<C1 value="180"/>
+			<C2 value="180"/>
+			<C3 value="180"/>
+			<C4 value="180"/>
+			<C5 value="180"/>
+			<C6 value="180"/>
+			<C7 value="180"/>
+			<C8 value="180"/>
+		</Columns>
+		<ConnectionsState value="1"/>
+		<LastMode value="1"/>
+		<RecentConnectionsState value="0"/>
+		<RecentDBState value="0"/>
+		<ShowPI value="1"/>
+	</SchemaEditor>
+</properties>
+
