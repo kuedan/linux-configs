@@ -1,14 +1,10 @@
 linux-configs
 =============
 
-linux-configs
-=============
-
 My Arch Linux config files
 
 First create SSH keys to git server:
 https://help.github.com/articles/generating-ssh-keys
-
 
 ssh-keygen -t rsa -C "your_email@example.com"
 # Creates a new ssh key, using the provided email as a label
@@ -45,13 +41,11 @@ git init
   git remote add origin git@github.com:coderholic/config.git # Your URL will differ
   git push origin master
   
-  
 to pull down to newly loaded arch linux:
 
 git init
   git pull git@github.com:coderholic/config.git
   git remote add origin git@github.com:coderholic/config.git
-  
 
 to commit changes:
 
@@ -61,4 +55,3 @@ git commit -a -m "Useful commit message goes here"
 and fianlly:
 
 git pull origin master  # on any machine needing the updates
-
