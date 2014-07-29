@@ -1,0 +1,4 @@
+#EXTM3U
+#EXTINF:254846,The Crossing
+#EXTVLCOPT:network-caching=1000
+http://2133.live.streamtheworld.com:80/KYXYHD2AAC_SC?TGT=iTunes&DIST=CBS&SRC=CBS
